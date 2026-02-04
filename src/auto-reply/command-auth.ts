@@ -9,6 +9,7 @@ export type CommandAuthorization = {
   providerId?: ChannelId;
   ownerList: string[];
   senderId?: string;
+  senderIsOwner: boolean;
   isAuthorizedSender: boolean;
   from?: string;
   to?: string;
@@ -173,13 +174,15 @@ export function resolveCommandAuthorization(params: {
   const senderId = matchedSender ?? senderCandidates[0];
 
   const enforceOwner = Boolean(dock?.commands?.enforceOwnerForCommands);
-  const isOwner = !enforceOwner || allowAll || ownerList.length === 0 || Boolean(matchedSender);
-  const isAuthorizedSender = commandAuthorized && isOwner;
+  const senderIsOwner = Boolean(matchedSender);
+  const isOwnerForCommands = !enforceOwner || allowAll || ownerList.length === 0 || senderIsOwner;
+  const isAuthorizedSender = commandAuthorized && isOwnerForCommands;
 
   return {
     providerId,
     ownerList,
     senderId: senderId || undefined,
+    senderIsOwner,
     isAuthorizedSender,
     from: from || undefined,
     to: to || undefined,
