@@ -25,6 +25,7 @@ export type SubagentRunRecord = {
   archiveAtMs?: number;
   cleanupCompletedAt?: number;
   cleanupHandled?: boolean;
+  suppressAnnounceReason?: "steer-restart";
 };
 
 const subagentRuns = new Map<string, SubagentRunRecord>();
@@ -45,6 +46,22 @@ function persistSubagentRuns() {
 
 const resumedRuns = new Set<string>();
 
+function suppressAnnounceForSteerRestart(entry?: SubagentRunRecord) {
+  return entry?.suppressAnnounceReason === "steer-restart";
+}
+
+function removeSuppressedRun(runId: string) {
+  const didDelete = subagentRuns.delete(runId);
+  if (!didDelete) {
+    return;
+  }
+  resumedRuns.delete(runId);
+  persistSubagentRuns();
+  if (subagentRuns.size === 0) {
+    stopSweeper();
+  }
+}
+
 function resumeSubagentRun(runId: string) {
   if (!runId || resumedRuns.has(runId)) {
     return;
@@ -58,6 +75,11 @@ function resumeSubagentRun(runId: string) {
   }
 
   if (typeof entry.endedAt === "number" && entry.endedAt > 0) {
+    if (suppressAnnounceForSteerRestart(entry)) {
+      removeSuppressedRun(runId);
+      resumedRuns.add(runId);
+      return;
+    }
     if (!beginSubagentCleanup(runId)) {
       return;
     }
@@ -221,6 +243,11 @@ function ensureListener() {
     }
     persistSubagentRuns();
 
+    if (suppressAnnounceForSteerRestart(entry)) {
+      removeSuppressedRun(evt.runId);
+      return;
+    }
+
     if (!beginSubagentCleanup(evt.runId)) {
       return;
     }
@@ -278,6 +305,74 @@ function beginSubagentCleanup(runId: string) {
   }
   entry.cleanupHandled = true;
   persistSubagentRuns();
+  return true;
+}
+
+export function markSubagentRunForSteerRestart(runId: string) {
+  const key = runId.trim();
+  if (!key) {
+    return false;
+  }
+  const entry = subagentRuns.get(key);
+  if (!entry) {
+    return false;
+  }
+  if (entry.suppressAnnounceReason === "steer-restart") {
+    return true;
+  }
+  entry.suppressAnnounceReason = "steer-restart";
+  persistSubagentRuns();
+  return true;
+}
+
+export function replaceSubagentRunAfterSteer(params: {
+  previousRunId: string;
+  nextRunId: string;
+  fallback?: SubagentRunRecord;
+  runTimeoutSeconds?: number;
+}) {
+  const previousRunId = params.previousRunId.trim();
+  const nextRunId = params.nextRunId.trim();
+  if (!previousRunId || !nextRunId) {
+    return false;
+  }
+
+  const previous = subagentRuns.get(previousRunId);
+  const source = previous ?? params.fallback;
+  if (!source) {
+    return false;
+  }
+
+  if (previousRunId !== nextRunId) {
+    subagentRuns.delete(previousRunId);
+    resumedRuns.delete(previousRunId);
+  }
+
+  const now = Date.now();
+  const cfg = loadConfig();
+  const archiveAfterMs = resolveArchiveAfterMs(cfg);
+  const archiveAtMs = archiveAfterMs ? now + archiveAfterMs : undefined;
+  const waitTimeoutMs = resolveSubagentWaitTimeoutMs(cfg, params.runTimeoutSeconds);
+
+  const next: SubagentRunRecord = {
+    ...source,
+    runId: nextRunId,
+    startedAt: now,
+    endedAt: undefined,
+    outcome: undefined,
+    cleanupCompletedAt: undefined,
+    cleanupHandled: false,
+    suppressAnnounceReason: undefined,
+    archiveAtMs,
+  };
+
+  subagentRuns.set(nextRunId, next);
+  ensureListener();
+  persistSubagentRuns();
+  if (archiveAtMs) {
+    startSweeper();
+  }
+  void waitForSubagentCompletion(nextRunId, waitTimeoutMs);
   return true;
 }
 
@@ -368,6 +463,10 @@ async function waitForSubagentCompletion(runId: string, waitTimeoutMs: number) {
     mutated = true;
     if (mutated) {
       persistSubagentRuns();
+    }
+    if (suppressAnnounceForSteerRestart(entry)) {
+      removeSuppressedRun(runId);
+      return;
     }
     if (!beginSubagentCleanup(runId)) {
       return;
