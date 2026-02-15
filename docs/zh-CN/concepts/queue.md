@@ -1,3 +1,5 @@
+**[English]** | [简体中文](queue_zh.md)
+
 ---
 read_when:
   - 更改自动回复执行或并发设置时

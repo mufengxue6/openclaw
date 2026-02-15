@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent-tools_zh.md)
+
 ---
 read_when:
   - 你想在插件中添加新的智能体工具

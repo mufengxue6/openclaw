@@ -1,5 +1,8 @@
 # Google Gemini CLI Auth (OpenClaw plugin)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 OAuth provider plugin for **Gemini CLI** (Google Code Assist).
 
 ## Enable

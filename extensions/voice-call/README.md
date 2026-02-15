@@ -1,5 +1,8 @@
 # @openclaw/voice-call
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Official Voice Call plugin for **OpenClaw**.
 
 Providers:

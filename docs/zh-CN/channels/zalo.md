@@ -1,3 +1,5 @@
+**[English]** | [简体中文](zalo_zh.md)
+
 ---
 read_when:
   - 开发 Zalo 功能或 webhooks

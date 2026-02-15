@@ -1,5 +1,8 @@
 # Roadmap Examples
 
+**[English]** | [简体中文](README_zh.md)
+
+
 These examples demonstrate **planned** OpenProse syntax that is **not yet implemented**.
 
 They are included to show the direction of the language and gather feedback on the design.

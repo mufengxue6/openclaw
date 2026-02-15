@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sessions_zh.md)
+
 ---
 summary: "Alias for session management docs"
 read_when:

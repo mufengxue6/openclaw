@@ -1,3 +1,5 @@
+**[English]** | [简体中文](poll_zh.md)
+
 ---
 summary: "Poll sending via gateway + CLI"
 read_when:

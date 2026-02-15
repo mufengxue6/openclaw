@@ -1,3 +1,5 @@
+**[English]** | [简体中文](wizard_zh.md)
+
 ---
 read_when:
   - 运行或配置新手引导向导

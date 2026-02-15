@@ -1,3 +1,5 @@
+**[English]** | [简体中文](doctor_zh.md)
+
 ---
 read_when:
   - 添加或修改 doctor 迁移

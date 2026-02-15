@@ -1,3 +1,5 @@
+**[English]** | [简体中文](USER.dev_zh.md)
+
 ---
 summary: "Dev agent user profile (C-3PO)"
 read_when:

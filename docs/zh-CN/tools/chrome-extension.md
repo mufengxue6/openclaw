@@ -1,3 +1,5 @@
+**[English]** | [简体中文](chrome-extension_zh.md)
+
 ---
 read_when:
   - 你希望智能体驱动现有的 Chrome 标签页（工具栏按钮）

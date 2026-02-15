@@ -1,3 +1,5 @@
+**[English]** | [简体中文](audio_zh.md)
+
 ---
 summary: "How inbound audio/voice notes are downloaded, transcribed, and injected into replies"
 read_when:

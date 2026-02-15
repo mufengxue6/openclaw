@@ -1,3 +1,5 @@
+**[English]** | [简体中文](broadcast-groups_zh.md)
+
 ---
 read_when:
   - 配置广播群组

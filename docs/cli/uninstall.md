@@ -1,3 +1,5 @@
+**[English]** | [简体中文](uninstall_zh.md)
+
 ---
 summary: "CLI reference for `openclaw uninstall` (remove gateway service + local data)"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](brave-search_zh.md)
+
 ---
 read_when:
   - 你想使用 Brave Search 进行 web_search

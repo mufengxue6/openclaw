@@ -1,3 +1,5 @@
+**[English]** | [简体中文](images_zh.md)
+
 ---
 summary: "Image and media handling rules for send, gateway, and agent replies"
 read_when:

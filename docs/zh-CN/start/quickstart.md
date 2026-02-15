@@ -1,3 +1,5 @@
+**[English]** | [简体中文](quickstart_zh.md)
+
 ---
 read_when:
   - 你希望以最快的方式从安装到运行一个可用的 Gateway 网关

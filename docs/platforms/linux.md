@@ -1,3 +1,5 @@
+**[English]** | [简体中文](linux_zh.md)
+
 ---
 summary: "Linux support + companion app status"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](troubleshooting_zh.md)
+
 ---
 summary: "Troubleshoot cron and heartbeat scheduling and delivery"
 read_when:

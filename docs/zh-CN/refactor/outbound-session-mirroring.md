@@ -1,3 +1,5 @@
+**[English]** | [简体中文](outbound-session-mirroring_zh.md)
+
 ---
 description: Track outbound session mirroring refactor notes, decisions, tests, and open items.
 title: 出站会话镜像重构（Issue

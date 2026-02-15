@@ -1,3 +1,5 @@
+**[English]** | [简体中文](doctor_zh.md)
+
 ---
 summary: "Doctor command: health checks, config migrations, and repair steps"
 read_when:

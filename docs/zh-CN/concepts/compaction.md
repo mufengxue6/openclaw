@@ -1,3 +1,5 @@
+**[English]** | [简体中文](compaction_zh.md)
+
 ---
 read_when:
   - 你想了解自动压缩和 /compact

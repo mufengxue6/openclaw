@@ -1,3 +1,5 @@
+**[English]** | [简体中文](system_zh.md)
+
 ---
 read_when:
   - 你想在不创建 cron 作业的情况下入队系统事件

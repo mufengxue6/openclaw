@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cron-jobs_zh.md)
+
 ---
 summary: "Cron jobs + wakeups for the Gateway scheduler"
 read_when:

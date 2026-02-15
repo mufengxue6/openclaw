@@ -1,3 +1,5 @@
+**[English]** | [简体中文](discord_zh.md)
+
 ---
 summary: "Discord bot support status, capabilities, and configuration"
 read_when:

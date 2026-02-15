@@ -1,3 +1,5 @@
+**[English]** | [简体中文](msteams_zh.md)
+
 ---
 read_when:
   - 开发 MS Teams 渠道功能

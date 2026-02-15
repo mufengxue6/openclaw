@@ -1,3 +1,5 @@
+**[English]** | [简体中文](hooks_zh.md)
+
 ---
 read_when:
   - 你想管理智能体钩子

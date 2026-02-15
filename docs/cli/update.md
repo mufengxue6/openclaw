@@ -1,3 +1,5 @@
+**[English]** | [简体中文](update_zh.md)
+
 ---
 summary: "CLI reference for `openclaw update` (safe-ish source update + gateway auto-restart)"
 read_when:

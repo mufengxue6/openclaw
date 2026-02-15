@@ -1,3 +1,5 @@
+**[English]** | [简体中文](gmail-pubsub_zh.md)
+
 ---
 read_when:
   - 将 Gmail 收件箱触发器接入 OpenClaw

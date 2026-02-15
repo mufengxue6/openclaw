@@ -1,3 +1,5 @@
+**[English]** | [简体中文](plugins_zh.md)
+
 ---
 read_when:
   - 你想安装或管理进程内 Gateway 网关插件

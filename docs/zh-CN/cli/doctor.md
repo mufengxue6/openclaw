@@ -1,3 +1,5 @@
+**[English]** | [简体中文](doctor_zh.md)
+
 ---
 read_when:
   - 你遇到连接/认证问题，需要引导式修复

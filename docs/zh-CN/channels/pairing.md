@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pairing_zh.md)
+
 ---
 read_when:
   - 设置私信访问控制

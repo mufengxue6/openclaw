@@ -1,3 +1,5 @@
+**[English]** | [简体中文](llm-task_zh.md)
+
 ---
 read_when:
   - 你需要在工作流中添加纯 JSON 的 LLM 步骤

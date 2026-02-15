@@ -1,3 +1,5 @@
+**[English]** | [简体中文](xpc_zh.md)
+
 ---
 read_when:
   - 编辑 IPC 合约或菜单栏应用 IPC

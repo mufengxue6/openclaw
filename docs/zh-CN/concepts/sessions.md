@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sessions_zh.md)
+
 ---
 read_when:
   - 你查找了 docs/sessions.md；规范文档位于 docs/session.md

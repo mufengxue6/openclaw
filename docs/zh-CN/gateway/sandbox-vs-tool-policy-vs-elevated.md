@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sandbox-vs-tool-policy-vs-elevated_zh.md)
+
 ---
 read_when: You hit 'sandbox jail' or see a tool/elevated refusal and want the exact config key to change.
 status: active

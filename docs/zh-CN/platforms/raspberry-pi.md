@@ -1,3 +1,5 @@
+**[English]** | [简体中文](raspberry-pi_zh.md)
+
 ---
 read_when:
   - 在 Raspberry Pi 上设置 OpenClaw 时

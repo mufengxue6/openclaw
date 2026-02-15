@@ -1,3 +1,5 @@
+**[English]** | [简体中文](installer_zh.md)
+
 ---
 read_when:
   - 你想了解 `openclaw.ai/install.sh` 的工作机制

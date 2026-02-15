@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voice-overlay_zh.md)
+
 ---
 summary: "Voice overlay lifecycle when wake-word and push-to-talk overlap"
 read_when:

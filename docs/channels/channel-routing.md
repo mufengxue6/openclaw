@@ -1,3 +1,5 @@
+**[English]** | [简体中文](channel-routing_zh.md)
+
 ---
 summary: "Routing rules per channel (WhatsApp, Telegram, Discord, Slack) and shared context"
 read_when:

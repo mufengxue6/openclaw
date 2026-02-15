@@ -1,3 +1,5 @@
+**[English]** | [简体中文](AGENTS_zh.md)
+
 ---
 read_when:
   - 手动引导初始化工作区

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tui_zh.md)
+
 ---
 read_when:
   - 你想要 TUI 的新手友好演练

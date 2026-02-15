@@ -1,3 +1,5 @@
+**[English]** | [简体中文](session-pruning_zh.md)
+
 ---
 read_when:
   - 你想减少工具输出导致的 LLM 上下文增长

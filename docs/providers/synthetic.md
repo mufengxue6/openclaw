@@ -1,3 +1,5 @@
+**[English]** | [简体中文](synthetic_zh.md)
+
 ---
 summary: "Use Synthetic's Anthropic-compatible API in OpenClaw"
 read_when:

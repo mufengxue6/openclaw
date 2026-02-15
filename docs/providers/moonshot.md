@@ -1,3 +1,5 @@
+**[English]** | [简体中文](moonshot_zh.md)
+
 ---
 summary: "Configure Moonshot K2 vs Kimi Coding (separate providers + keys)"
 read_when:

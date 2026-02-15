@@ -1,3 +1,5 @@
+**[English]** | [简体中文](browser-evaluate-cdp-refactor_zh.md)
+
 ---
 summary: "Plan: isolate browser act:evaluate from Playwright queue using CDP, with end-to-end deadlines and safer ref resolution"
 owner: "openclaw"

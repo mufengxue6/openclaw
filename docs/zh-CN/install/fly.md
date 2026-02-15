@@ -1,3 +1,5 @@
+**[English]** | [简体中文](fly_zh.md)
+
 ---
 description: Deploy OpenClaw on Fly.io
 title: Fly.io

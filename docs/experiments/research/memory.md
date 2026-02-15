@@ -1,3 +1,5 @@
+**[English]** | [简体中文](memory_zh.md)
+
 ---
 summary: "Research notes: offline memory system for Clawd workspaces (Markdown source-of-truth + derived index)"
 read_when:

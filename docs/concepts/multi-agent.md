@@ -1,3 +1,5 @@
+**[English]** | [简体中文](multi-agent_zh.md)
+
 ---
 summary: "Multi-agent routing: isolated agents, channel accounts, and bindings"
 title: Multi-Agent Routing

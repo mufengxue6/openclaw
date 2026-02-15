@@ -1,3 +1,5 @@
+**[English]** | [简体中文](menu-bar_zh.md)
+
 ---
 read_when:
   - 调整 Mac 菜单 UI 或状态逻辑

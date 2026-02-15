@@ -1,3 +1,5 @@
+**[English]** | [简体中文](memory_zh.md)
+
 ---
 read_when:
   - 设计超越每日 Markdown 日志的工作区记忆（~/.openclaw/workspace）

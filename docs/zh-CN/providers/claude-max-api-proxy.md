@@ -1,3 +1,5 @@
+**[English]** | [简体中文](claude-max-api-proxy_zh.md)
+
 ---
 read_when:
   - 你想将 Claude Max 订阅与 OpenAI 兼容工具配合使用

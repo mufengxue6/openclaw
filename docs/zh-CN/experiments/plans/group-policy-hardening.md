@@ -1,3 +1,5 @@
+**[English]** | [简体中文](group-policy-hardening_zh.md)
+
 ---
 read_when:
   - 查看历史 Telegram 允许列表更改

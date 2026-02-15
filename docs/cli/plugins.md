@@ -1,3 +1,5 @@
+**[English]** | [简体中文](plugins_zh.md)
+
 ---
 summary: "CLI reference for `openclaw plugins` (list, install, uninstall, enable/disable, doctor)"
 read_when:

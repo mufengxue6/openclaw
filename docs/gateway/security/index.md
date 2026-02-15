@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Security considerations and threat model for running an AI gateway with shell access"
 read_when:

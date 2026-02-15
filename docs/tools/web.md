@@ -1,3 +1,5 @@
+**[English]** | [简体中文](web_zh.md)
+
 ---
 summary: "Web search + fetch tools (Brave Search API, Perplexity direct/OpenRouter)"
 read_when:

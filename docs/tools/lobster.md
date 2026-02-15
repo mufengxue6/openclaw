@@ -1,3 +1,5 @@
+**[English]** | [简体中文](lobster_zh.md)
+
 ---
 title: Lobster
 summary: "Typed workflow runtime for OpenClaw with resumable approval gates."

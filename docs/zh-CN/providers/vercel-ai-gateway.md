@@ -1,3 +1,5 @@
+**[English]** | [简体中文](vercel-ai-gateway_zh.md)
+
 ---
 read_when:
   - 你想将 Vercel AI Gateway 与 OpenClaw 配合使用

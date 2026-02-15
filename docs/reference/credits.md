@@ -1,3 +1,5 @@
+**[English]** | [简体中文](credits_zh.md)
+
 ---
 summary: "Project origin, contributors, and license."
 read_when:

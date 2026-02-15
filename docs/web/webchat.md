@@ -1,3 +1,5 @@
+**[English]** | [简体中文](webchat_zh.md)
+
 ---
 summary: "Loopback WebChat static host and Gateway WS usage for chat UI"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](moonshot_zh.md)
+
 ---
 read_when:
   - 你想了解 Moonshot K2（Moonshot 开放平台）与 Kimi Coding 的配置

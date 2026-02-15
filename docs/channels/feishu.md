@@ -1,3 +1,5 @@
+**[English]** | [简体中文](feishu_zh.md)
+
 ---
 summary: "Feishu bot overview, features, and configuration"
 read_when:

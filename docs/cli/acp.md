@@ -1,3 +1,5 @@
+**[English]** | [简体中文](acp_zh.md)
+
 ---
 summary: "Run the ACP bridge for IDE integrations"
 read_when:

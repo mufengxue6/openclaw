@@ -1,3 +1,5 @@
+**[English]** | [简体中文](deepgram_zh.md)
+
 ---
 summary: "Deepgram transcription for inbound voice notes"
 read_when:

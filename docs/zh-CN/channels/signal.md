@@ -1,3 +1,5 @@
+**[English]** | [简体中文](signal_zh.md)
+
 ---
 read_when:
   - 设置 Signal 支持

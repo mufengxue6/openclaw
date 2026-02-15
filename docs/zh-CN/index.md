@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 read_when:
   - 向新用户介绍 OpenClaw

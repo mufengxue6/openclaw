@@ -1,3 +1,5 @@
+**[English]** | [简体中文](network-model_zh.md)
+
 ---
 read_when:
   - 你想要简要了解 Gateway 网关的网络模型

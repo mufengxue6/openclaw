@@ -1,3 +1,5 @@
+**[English]** | [简体中文](gateway-lock_zh.md)
+
 ---
 summary: "Gateway singleton guard using the WebSocket listener bind"
 read_when:

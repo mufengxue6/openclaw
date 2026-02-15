@@ -1,3 +1,5 @@
+**[English]** | [简体中文](zalouser_zh.md)
+
 ---
 summary: "Zalo Personal plugin: QR login + messaging via zca-cli (plugin install + channel config + CLI + tool)"
 read_when:

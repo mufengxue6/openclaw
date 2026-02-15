@@ -1,3 +1,5 @@
+**[English]** | [简体中文](twitch_zh.md)
+
 ---
 summary: "Twitch chat bot configuration and setup"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](system-prompt_zh.md)
+
 ---
 summary: "What the OpenClaw system prompt contains and how it is assembled"
 read_when:

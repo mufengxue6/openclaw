@@ -1,3 +1,5 @@
+**[English]** | [简体中文](approvals_zh.md)
+
 ---
 read_when:
   - 你想通过 CLI 编辑执行审批

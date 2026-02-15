@@ -1,3 +1,5 @@
+**[English]** | [简体中文](channel-routing_zh.md)
+
 ---
 read_when:
   - 更改渠道路由或收件箱行为

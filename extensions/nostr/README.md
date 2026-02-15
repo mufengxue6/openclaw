@@ -1,5 +1,8 @@
 # @openclaw/nostr
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Nostr DM channel plugin for OpenClaw using NIP-04 encrypted direct messages.
 
 ## Overview

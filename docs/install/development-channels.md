@@ -1,3 +1,5 @@
+**[English]** | [简体中文](development-channels_zh.md)
+
 ---
 summary: "Stable, beta, and dev channels: semantics, switching, and tagging"
 read_when:

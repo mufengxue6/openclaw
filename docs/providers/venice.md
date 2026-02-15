@@ -1,3 +1,5 @@
+**[English]** | [简体中文](venice_zh.md)
+
 ---
 summary: "Use Venice AI privacy-focused models in OpenClaw"
 read_when:

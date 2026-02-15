@@ -1,3 +1,5 @@
+**[English]** | [简体中文](testing_zh.md)
+
 ---
 read_when:
   - 在本地或 CI 中运行测试

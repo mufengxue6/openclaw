@@ -1,3 +1,5 @@
+**[English]** | [简体中文](macos_zh.md)
+
 ---
 summary: "OpenClaw macOS companion app (menu bar + gateway broker)"
 read_when:

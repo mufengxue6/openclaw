@@ -1,3 +1,5 @@
+**[English]** | [简体中文](poll_zh.md)
+
 ---
 read_when:
   - 添加或修改投票支持

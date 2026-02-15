@@ -1,3 +1,5 @@
+**[English]** | [简体中文](matrix_zh.md)
+
 ---
 read_when:
   - 开发 Matrix 渠道功能

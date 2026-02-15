@@ -1,3 +1,5 @@
+**[English]** | [简体中文](perplexity_zh.md)
+
 ---
 summary: "Perplexity Sonar setup for web_search"
 read_when:

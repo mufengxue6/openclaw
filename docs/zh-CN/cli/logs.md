@@ -1,3 +1,5 @@
+**[English]** | [简体中文](logs_zh.md)
+
 ---
 read_when:
   - 你需要远程跟踪 Gateway 网关日志（无需 SSH）

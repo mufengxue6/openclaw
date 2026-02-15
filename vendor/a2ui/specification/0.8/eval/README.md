@@ -1,5 +1,8 @@
 # Genkit Eval Framework for UI generation
 
+**[English]** | [简体中文](README_zh.md)
+
+
 This is for evaluating A2UI (v0.8) against various LLMs.
 
 ## Setup

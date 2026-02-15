@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voice-call_zh.md)
+
 ---
 read_when:
   - 你想从 OpenClaw 发起出站语音通话

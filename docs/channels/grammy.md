@@ -1,3 +1,5 @@
+**[English]** | [简体中文](grammy_zh.md)
+
 ---
 summary: "Telegram Bot API integration via grammY with setup notes"
 read_when:

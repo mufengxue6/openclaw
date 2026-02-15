@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bootstrapping_zh.md)
+
 ---
 summary: "Agent bootstrapping ritual that seeds the workspace and identity files"
 read_when:

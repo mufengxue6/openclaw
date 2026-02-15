@@ -1,3 +1,5 @@
+**[English]** | [简体中文](models_zh.md)
+
 ---
 read_when:
   - 你想更改默认模型或查看提供商认证状态

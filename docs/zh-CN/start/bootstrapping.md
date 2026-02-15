@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bootstrapping_zh.md)
+
 ---
 summary: 智能体引导流程：首次运行时如何初始化工作区与身份文件
 title: 智能体引导

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](control-ui_zh.md)
+
 ---
 summary: "Browser-based control UI for the Gateway (chat, nodes, config)"
 read_when:

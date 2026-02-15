@@ -1,3 +1,5 @@
+**[English]** | [简体中文](directory_zh.md)
+
 ---
 summary: "CLI reference for `openclaw directory` (self, peers, groups)"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](session-tool_zh.md)
+
 ---
 summary: "Agent session tools for listing sessions, fetching history, and sending cross-session messages"
 read_when:

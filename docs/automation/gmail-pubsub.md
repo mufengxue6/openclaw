@@ -1,3 +1,5 @@
+**[English]** | [简体中文](gmail-pubsub_zh.md)
+
 ---
 summary: "Gmail Pub/Sub push wired into OpenClaw webhooks via gogcli"
 read_when:

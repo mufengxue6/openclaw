@@ -1,3 +1,5 @@
+**[English]** | [简体中文](authentication_zh.md)
+
 ---
 read_when:
   - 调试模型认证或 OAuth 过期

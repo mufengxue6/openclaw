@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Nodes: pairing, capabilities, permissions, and CLI helpers for canvas/camera/screen/system"
 read_when:

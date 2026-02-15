@@ -1,3 +1,5 @@
+**[English]** | [简体中文](RELEASING_zh.md)
+
 ---
 read_when:
   - 发布新的 npm 版本

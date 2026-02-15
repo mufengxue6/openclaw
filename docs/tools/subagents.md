@@ -1,3 +1,5 @@
+**[English]** | [简体中文](subagents_zh.md)
+
 ---
 summary: "Sub-agents: spawning isolated agent runs that announce results back to the requester chat"
 read_when:

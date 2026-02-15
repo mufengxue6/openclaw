@@ -1,3 +1,5 @@
+**[English]** | [简体中文](transcript-hygiene_zh.md)
+
 ---
 summary: "Reference: provider-specific transcript sanitization and repair rules"
 read_when:

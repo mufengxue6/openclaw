@@ -1,3 +1,5 @@
+**[English]** | [简体中文](web_zh.md)
+
 ---
 read_when:
   - 你想启用 web_search 或 web_fetch

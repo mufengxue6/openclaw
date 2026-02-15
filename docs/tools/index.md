@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Agent tool surface for OpenClaw (browser, canvas, nodes, message, cron) replacing legacy `openclaw-*` skills"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](streaming_zh.md)
+
 ---
 summary: "Streaming + chunking behavior (block replies, draft streaming, limits)"
 read_when:

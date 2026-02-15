@@ -1,3 +1,5 @@
+**[English]** | [简体中文](browser_zh.md)
+
 ---
 summary: "Integrated browser control service + action commands"
 read_when:

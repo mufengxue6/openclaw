@@ -1,3 +1,5 @@
+**[English]** | [简体中文](vercel-ai-gateway_zh.md)
+
 ---
 title: "Vercel AI Gateway"
 summary: "Vercel AI Gateway setup (auth + model selection)"

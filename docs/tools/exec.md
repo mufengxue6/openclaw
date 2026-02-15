@@ -1,3 +1,5 @@
+**[English]** | [简体中文](exec_zh.md)
+
 ---
 summary: "Exec tool usage, stdin modes, and TTY support"
 read_when:

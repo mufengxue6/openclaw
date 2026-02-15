@@ -1,3 +1,5 @@
+**[English]** | [简体中文](icon_zh.md)
+
 ---
 read_when:
   - 更改菜单栏图标行为

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](network_zh.md)
+
 ---
 summary: "Network hub: gateway surfaces, pairing, discovery, and security"
 read_when:

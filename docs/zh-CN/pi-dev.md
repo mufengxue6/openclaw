@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pi-dev_zh.md)
+
 ---
 title: Pi 开发工作流程
 x-i18n:

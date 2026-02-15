@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openresponses-gateway_zh.md)
+
 ---
 summary: "Plan: Add OpenResponses /v1/responses endpoint and deprecate chat completions cleanly"
 owner: "openclaw"

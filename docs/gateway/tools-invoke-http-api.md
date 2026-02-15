@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tools-invoke-http-api_zh.md)
+
 ---
 summary: "Invoke a single tool directly via the Gateway HTTP endpoint"
 read_when:

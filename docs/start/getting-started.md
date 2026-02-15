@@ -1,3 +1,5 @@
+**[English]** | [简体中文](getting-started_zh.md)
+
 ---
 summary: "Get OpenClaw installed and run your first chat in minutes."
 read_when:

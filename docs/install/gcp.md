@@ -1,3 +1,5 @@
+**[English]** | [简体中文](gcp_zh.md)
+
 ---
 summary: "Run OpenClaw Gateway 24/7 on a GCP Compute Engine VM (Docker) with durable state"
 read_when:

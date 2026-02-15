@@ -1,3 +1,5 @@
+**[English]** | [简体中文](message_zh.md)
+
 ---
 read_when:
   - 添加或修改消息 CLI 操作

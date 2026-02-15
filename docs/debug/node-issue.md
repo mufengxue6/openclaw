@@ -1,3 +1,5 @@
+**[English]** | [简体中文](node-issue_zh.md)
+
 ---
 summary: Node + tsx "__name is not a function" crash notes and workarounds
 read_when:

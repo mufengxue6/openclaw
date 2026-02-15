@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openrouter_zh.md)
+
 ---
 summary: "Use OpenRouter's unified API to access many models in OpenClaw"
 read_when:

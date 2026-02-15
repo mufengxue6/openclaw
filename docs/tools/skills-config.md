@@ -1,3 +1,5 @@
+**[English]** | [简体中文](skills-config_zh.md)
+
 ---
 summary: "Skills config schema and examples"
 read_when:

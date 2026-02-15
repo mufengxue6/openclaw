@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bluebubbles_zh.md)
+
 ---
 read_when:
   - 设置 BlueBubbles 渠道

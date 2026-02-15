@@ -1,3 +1,5 @@
+**[English]** | [简体中文](logging_zh.md)
+
 ---
 summary: "OpenClaw logging: rolling diagnostics file log + unified log privacy flags"
 read_when:

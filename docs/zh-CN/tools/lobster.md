@@ -1,3 +1,5 @@
+**[English]** | [简体中文](lobster_zh.md)
+
 ---
 description: Typed workflow runtime for OpenClaw — composable pipelines with approval gates.
 read_when:

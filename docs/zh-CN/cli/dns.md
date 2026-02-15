@@ -1,3 +1,5 @@
+**[English]** | [简体中文](dns_zh.md)
+
 ---
 read_when:
   - 你想通过 Tailscale + CoreDNS 实现广域设备发现（DNS-SD）

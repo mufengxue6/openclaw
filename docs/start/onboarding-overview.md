@@ -1,3 +1,5 @@
+**[English]** | [简体中文](onboarding-overview_zh.md)
+
 ---
 summary: "Overview of OpenClaw onboarding options and flows"
 read_when:

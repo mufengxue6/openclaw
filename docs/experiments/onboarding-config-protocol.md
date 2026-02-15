@@ -1,3 +1,5 @@
+**[English]** | [简体中文](onboarding-config-protocol_zh.md)
+
 ---
 summary: "RPC protocol notes for onboarding wizard and config schema"
 read_when: "Changing onboarding wizard steps or config schema endpoints"

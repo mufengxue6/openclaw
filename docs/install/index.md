@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Install OpenClaw — installer script, npm/pnpm, from source, Docker, and more"
 read_when:

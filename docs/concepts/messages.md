@@ -1,3 +1,5 @@
+**[English]** | [简体中文](messages_zh.md)
+
 ---
 summary: "Message flow, sessions, queueing, and reasoning visibility"
 read_when:

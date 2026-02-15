@@ -1,3 +1,5 @@
+**[English]** | [简体中文](googlechat_zh.md)
+
 ---
 summary: "Google Chat app support status, capabilities, and configuration"
 read_when:

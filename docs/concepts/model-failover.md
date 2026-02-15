@@ -1,3 +1,5 @@
+**[English]** | [简体中文](model-failover_zh.md)
+
 ---
 summary: "How OpenClaw rotates auth profiles and falls back across models"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](network_zh.md)
+
 ---
 read_when:
   - 你需要了解网络架构和安全概述

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openresponses-http-api_zh.md)
+
 ---
 summary: "Expose an OpenResponses-compatible /v1/responses HTTP endpoint from the Gateway"
 read_when:

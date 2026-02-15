@@ -1,3 +1,5 @@
+**[English]** | [简体中文](onboarding_zh.md)
+
 ---
 summary: "First-run onboarding flow for OpenClaw (macOS app)"
 read_when:

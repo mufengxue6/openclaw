@@ -1,3 +1,5 @@
+**[English]** | [简体中文](control-ui_zh.md)
+
 ---
 read_when:
   - 你想从浏览器操作 Gateway 网关

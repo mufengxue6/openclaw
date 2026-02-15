@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent-loop_zh.md)
+
 ---
 read_when:
   - 你需要智能体循环或生命周期事件的详细说明

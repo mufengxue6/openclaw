@@ -1,3 +1,5 @@
+**[English]** | [简体中文](outbound-session-mirroring_zh.md)
+
 ---
 title: Outbound Session Mirroring Refactor (Issue #1520)
 description: Track outbound session mirroring refactor notes, decisions, tests, and open items.

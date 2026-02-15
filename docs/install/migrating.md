@@ -1,3 +1,5 @@
+**[English]** | [简体中文](migrating_zh.md)
+
 ---
 summary: "Move (migrate) a OpenClaw install from one machine to another"
 read_when:

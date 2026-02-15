@@ -1,3 +1,5 @@
+**[English]** | [简体中文](gcp_zh.md)
+
 ---
 read_when:
   - 你想在 GCP 上 24/7 运行 OpenClaw

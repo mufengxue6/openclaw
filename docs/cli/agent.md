@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent_zh.md)
+
 ---
 summary: "CLI reference for `openclaw agent` (send one agent turn via the Gateway)"
 read_when:

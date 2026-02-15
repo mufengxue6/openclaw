@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voicewake_zh.md)
+
 ---
 summary: "Voice wake and push-to-talk modes plus routing details in the mac app"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](skills_zh.md)
+
 ---
 summary: "Skills: managed vs workspace, gating rules, and config/env wiring"
 read_when:

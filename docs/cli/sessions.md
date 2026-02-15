@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sessions_zh.md)
+
 ---
 summary: "CLI reference for `openclaw sessions` (list stored sessions + usage)"
 read_when:

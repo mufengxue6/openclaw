@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 read_when:
   - 你想通过 Tailscale 访问 Gateway 网关

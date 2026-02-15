@@ -1,3 +1,5 @@
+**[English]** | [简体中文](strict-config_zh.md)
+
 ---
 read_when:
   - 设计或实现配置验证行为

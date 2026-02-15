@@ -1,3 +1,5 @@
+**[English]** | [简体中文](macos-vm_zh.md)
+
 ---
 read_when:
   - 你想让 OpenClaw 与你的主 macOS 环境隔离

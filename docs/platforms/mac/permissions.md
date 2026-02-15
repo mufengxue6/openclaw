@@ -1,3 +1,5 @@
+**[English]** | [简体中文](permissions_zh.md)
+
 ---
 summary: "macOS permission persistence (TCC) and signing requirements"
 read_when:

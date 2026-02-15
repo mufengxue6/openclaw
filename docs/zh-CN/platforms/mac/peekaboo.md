@@ -1,3 +1,5 @@
+**[English]** | [简体中文](peekaboo_zh.md)
+
 ---
 read_when:
   - 在 OpenClaw.app 中托管 PeekabooBridge

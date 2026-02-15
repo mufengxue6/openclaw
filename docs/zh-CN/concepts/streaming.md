@@ -1,3 +1,5 @@
+**[English]** | [简体中文](streaming_zh.md)
+
 ---
 read_when:
   - 解释流式传输或分块在渠道上如何工作

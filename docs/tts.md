@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tts_zh.md)
+
 ---
 summary: "Text-to-speech (TTS) for outbound replies"
 read_when:

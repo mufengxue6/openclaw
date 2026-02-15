@@ -1,3 +1,5 @@
+**[English]** | [简体中文](webchat_zh.md)
+
 ---
 read_when:
   - 调试或配置 WebChat 访问

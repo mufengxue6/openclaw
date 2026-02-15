@@ -1,3 +1,5 @@
+**[English]** | [简体中文](onboard_zh.md)
+
 ---
 summary: "CLI reference for `openclaw onboard` (interactive onboarding wizard)"
 read_when:

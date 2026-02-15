@@ -1,3 +1,5 @@
+**[English]** | [简体中文](onboard_zh.md)
+
 ---
 read_when:
   - 你想要 Gateway 网关、工作区、认证、渠道和 Skills 的引导式设置

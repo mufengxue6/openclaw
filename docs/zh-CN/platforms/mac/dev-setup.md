@@ -1,3 +1,5 @@
+**[English]** | [简体中文](dev-setup_zh.md)
+
 ---
 read_when:
   - 设置 macOS 开发环境

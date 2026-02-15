@@ -1,5 +1,8 @@
 # Qwen OAuth (OpenClaw plugin)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 OAuth provider plugin for **Qwen** (free-tier OAuth).
 
 ## Enable

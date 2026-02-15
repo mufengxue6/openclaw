@@ -1,3 +1,5 @@
+**[English]** | [简体中文](imessage_zh.md)
+
 ---
 summary: "Legacy iMessage support via imsg (JSON-RPC over stdio). New setups should use BlueBubbles."
 read_when:

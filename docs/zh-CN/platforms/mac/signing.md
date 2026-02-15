@@ -1,3 +1,5 @@
+**[English]** | [简体中文](signing_zh.md)
+
 ---
 read_when:
   - 构建或签名 Mac 调试构建

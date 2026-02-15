@@ -1,3 +1,5 @@
+**[English]** | [简体中文](system_zh.md)
+
 ---
 summary: "CLI reference for `openclaw system` (system events, heartbeat, presence)"
 read_when:

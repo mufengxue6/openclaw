@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pi_zh.md)
+
 ---
 title: "Pi Integration Architecture"
 ---

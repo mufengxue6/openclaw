@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cloudflare-ai-gateway_zh.md)
+
 ---
 title: "Cloudflare AI Gateway"
 summary: "Cloudflare AI Gateway setup (auth + model selection)"

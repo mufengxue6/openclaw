@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cron_zh.md)
+
 ---
 read_when:
   - 你需要定时作业和唤醒功能

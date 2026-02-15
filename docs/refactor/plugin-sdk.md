@@ -1,3 +1,5 @@
+**[English]** | [简体中文](plugin-sdk_zh.md)
+
 ---
 summary: "Plan: one clean plugin SDK + runtime for all messaging connectors"
 read_when:

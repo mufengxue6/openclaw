@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pairing_zh.md)
+
 ---
 summary: "Gateway-owned node pairing (Option B) for iOS and other remote nodes"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](release_zh.md)
+
 ---
 read_when:
   - 制作或验证 OpenClaw macOS 发布版本

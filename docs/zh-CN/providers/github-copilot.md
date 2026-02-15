@@ -1,3 +1,5 @@
+**[English]** | [简体中文](github-copilot_zh.md)
+
 ---
 read_when:
   - 你想使用 GitHub Copilot 作为模型提供商

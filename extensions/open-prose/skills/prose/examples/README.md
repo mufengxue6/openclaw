@@ -1,5 +1,8 @@
 # OpenProse Examples
 
+**[English]** | [简体中文](README_zh.md)
+
+
 These examples demonstrate workflows using OpenProse's full feature set.
 
 ## Available Examples

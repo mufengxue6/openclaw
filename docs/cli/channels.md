@@ -1,3 +1,5 @@
+**[English]** | [简体中文](channels_zh.md)
+
 ---
 summary: "CLI reference for `openclaw channels` (accounts, status, login/logout, logs)"
 read_when:

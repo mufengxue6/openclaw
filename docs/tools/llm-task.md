@@ -1,3 +1,5 @@
+**[English]** | [简体中文](llm-task_zh.md)
+
 ---
 summary: "JSON-only LLM tasks for workflows (optional plugin tool)"
 read_when:

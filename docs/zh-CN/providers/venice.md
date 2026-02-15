@@ -1,3 +1,5 @@
+**[English]** | [简体中文](venice_zh.md)
+
 ---
 read_when:
   - 你想在 OpenClaw 中使用注重隐私的推理服务

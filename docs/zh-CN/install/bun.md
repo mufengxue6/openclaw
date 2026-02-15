@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bun_zh.md)
+
 ---
 read_when:
   - 你想要最快的本地开发循环（bun + watch）

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](windows_zh.md)
+
 ---
 summary: "Windows (WSL2) support + companion app status"
 read_when:

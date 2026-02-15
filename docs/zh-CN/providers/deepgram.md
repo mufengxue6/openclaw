@@ -1,3 +1,5 @@
+**[English]** | [简体中文](deepgram_zh.md)
+
 ---
 read_when:
   - 你想使用 Deepgram 语音转文字处理音频附件

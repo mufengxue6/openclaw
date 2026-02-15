@@ -1,3 +1,5 @@
+**[English]** | [简体中文](browser-linux-troubleshooting_zh.md)
+
 ---
 read_when: Browser control fails on Linux, especially with snap Chromium
 summary: 修复 Linux 上 OpenClaw 浏览器控制的 Chrome/Brave/Edge/Chromium CDP 启动问题

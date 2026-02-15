@@ -1,3 +1,5 @@
+**[English]** | [简体中文](presence_zh.md)
+
 ---
 summary: "How OpenClaw presence entries are produced, merged, and displayed"
 read_when:

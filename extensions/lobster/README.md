@@ -1,5 +1,8 @@
 # Lobster (plugin)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Adds the `lobster` agent tool as an **optional** plugin tool.
 
 ## What this is

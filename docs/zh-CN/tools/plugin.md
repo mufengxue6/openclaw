@@ -1,3 +1,5 @@
+**[English]** | [简体中文](plugin_zh.md)
+
 ---
 read_when:
   - 添加或修改插件/扩展

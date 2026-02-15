@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tailscale_zh.md)
+
 ---
 read_when:
   - 在 localhost 之外暴露 Gateway 网关控制 UI

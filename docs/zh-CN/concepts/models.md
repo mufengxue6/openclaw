@@ -1,3 +1,5 @@
+**[English]** | [简体中文](models_zh.md)
+
 ---
 read_when:
   - 添加或修改模型 CLI（models list/set/scan/aliases/fallbacks）

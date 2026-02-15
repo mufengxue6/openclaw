@@ -1,3 +1,5 @@
+**[English]** | [简体中文](AGENTS_zh.md)
+
 ---
 title: "AGENTS.md Template"
 summary: "Workspace template for AGENTS.md"

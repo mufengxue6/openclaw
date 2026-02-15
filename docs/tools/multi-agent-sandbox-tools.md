@@ -1,3 +1,5 @@
+**[English]** | [简体中文](multi-agent-sandbox-tools_zh.md)
+
 ---
 summary: "Per-agent sandbox + tool restrictions, precedence, and examples"
 title: Multi-Agent Sandbox & Tools

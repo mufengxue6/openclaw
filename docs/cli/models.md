@@ -1,3 +1,5 @@
+**[English]** | [简体中文](models_zh.md)
+
 ---
 summary: "CLI reference for `openclaw models` (status/list/set/scan, aliases, fallbacks, auth)"
 read_when:

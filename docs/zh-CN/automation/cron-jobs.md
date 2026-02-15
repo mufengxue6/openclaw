@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cron-jobs_zh.md)
+
 ---
 read_when:
   - 调度后台任务或唤醒

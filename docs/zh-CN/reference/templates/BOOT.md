@@ -1,3 +1,5 @@
+**[English]** | [简体中文](BOOT_zh.md)
+
 ---
 read_when:
   - 添加 BOOT.md 检查清单时

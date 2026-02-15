@@ -1,3 +1,5 @@
+**[English]** | [简体中文](credits_zh.md)
+
 ---
 read_when:
   - 你想了解项目背景故事或贡献者致谢信息

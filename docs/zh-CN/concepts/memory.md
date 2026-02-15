@@ -1,3 +1,5 @@
+**[English]** | [简体中文](memory_zh.md)
+
 ---
 read_when:
   - 你想了解记忆文件布局和工作流程

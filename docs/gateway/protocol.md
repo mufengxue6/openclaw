@@ -1,3 +1,5 @@
+**[English]** | [简体中文](protocol_zh.md)
+
 ---
 summary: "Gateway WebSocket protocol: handshake, frames, versioning"
 read_when:

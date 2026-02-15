@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Runbook for the Gateway service, lifecycle, and operations"
 read_when:

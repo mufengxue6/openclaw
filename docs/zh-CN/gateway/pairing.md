@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pairing_zh.md)
+
 ---
 read_when:
   - 在没有 macOS UI 的情况下实现节点配对审批

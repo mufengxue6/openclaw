@@ -1,3 +1,5 @@
+**[English]** | [简体中文](IDENTITY.dev_zh.md)
+
 ---
 summary: "Dev agent identity (C-3PO)"
 read_when:

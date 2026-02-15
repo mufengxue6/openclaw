@@ -1,3 +1,5 @@
+**[English]** | [简体中文](dashboard_zh.md)
+
 ---
 read_when:
   - 想要使用当前令牌打开控制界面

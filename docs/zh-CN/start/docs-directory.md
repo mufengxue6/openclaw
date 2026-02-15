@@ -1,3 +1,5 @@
+**[English]** | [简体中文](docs-directory_zh.md)
+
 ---
 read_when:
   - 你想快速访问关键文档页面

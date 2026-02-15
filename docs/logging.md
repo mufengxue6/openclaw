@@ -1,3 +1,5 @@
+**[English]** | [简体中文](logging_zh.md)
+
 ---
 summary: "Logging overview: file logs, console output, CLI tailing, and the Control UI"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](token-use_zh.md)
+
 ---
 summary: "How OpenClaw builds prompt context and reports token usage + costs"
 read_when:

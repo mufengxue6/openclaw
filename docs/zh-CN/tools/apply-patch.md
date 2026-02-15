@@ -1,3 +1,5 @@
+**[English]** | [简体中文](apply-patch_zh.md)
+
 ---
 read_when:
   - 你需要跨多个文件进行结构化编辑

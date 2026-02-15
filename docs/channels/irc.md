@@ -1,3 +1,5 @@
+**[English]** | [简体中文](irc_zh.md)
+
 ---
 title: IRC
 description: Connect OpenClaw to IRC channels and direct messages.

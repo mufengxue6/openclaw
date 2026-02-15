@@ -1,3 +1,5 @@
+**[English]** | [简体中文](skills_zh.md)
+
 ---
 summary: "macOS Skills settings UI and gateway-backed status"
 read_when:

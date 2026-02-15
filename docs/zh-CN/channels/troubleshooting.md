@@ -1,3 +1,5 @@
+**[English]** | [简体中文](troubleshooting_zh.md)
+
 ---
 read_when:
   - 渠道已连接但消息无法流通

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](wizard_zh.md)
+
 ---
 summary: "Full reference for the CLI onboarding wizard: every step, flag, and config field"
 read_when:

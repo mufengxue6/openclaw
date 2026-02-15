@@ -1,3 +1,5 @@
+**[English]** | [简体中文](media-understanding_zh.md)
+
 ---
 summary: "Inbound image/audio/video understanding (optional) with provider + CLI fallbacks"
 read_when:

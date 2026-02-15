@@ -1,3 +1,5 @@
+**[English]** | [简体中文](ansible_zh.md)
+
 ---
 read_when:
   - 你想要带安全加固的自动化服务器部署

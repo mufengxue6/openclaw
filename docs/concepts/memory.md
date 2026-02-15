@@ -1,3 +1,5 @@
+**[English]** | [简体中文](memory_zh.md)
+
 ---
 title: "Memory"
 summary: "How OpenClaw memory works (workspace files + automatic memory flush)"

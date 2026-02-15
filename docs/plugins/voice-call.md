@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voice-call_zh.md)
+
 ---
 summary: "Voice Call plugin: outbound + inbound calls via Twilio/Telnyx/Plivo (plugin install + config + CLI)"
 read_when:

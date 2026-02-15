@@ -1,5 +1,8 @@
 # AGENTS.md - zh-CN 文档翻译工作区
 
+**[English]** | [简体中文](AGENTS_zh.md)
+
+
 ## Read When
 
 - 维护 `docs/zh-CN/**`

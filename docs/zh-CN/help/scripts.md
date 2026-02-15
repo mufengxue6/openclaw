@@ -1,3 +1,5 @@
+**[English]** | [简体中文](scripts_zh.md)
+
 ---
 read_when:
   - 从仓库运行脚本时

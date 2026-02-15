@@ -1,3 +1,5 @@
+**[English]** | [简体中文](flags_zh.md)
+
 ---
 summary: "Diagnostics flags for targeted debug logs"
 read_when:

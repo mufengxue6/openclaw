@@ -1,3 +1,5 @@
+**[English]** | [简体中文](configuration-reference_zh.md)
+
 ---
 title: "Configuration Reference"
 description: "Complete field-by-field reference for ~/.openclaw/openclaw.json"

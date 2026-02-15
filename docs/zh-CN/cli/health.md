@@ -1,3 +1,5 @@
+**[English]** | [简体中文](health_zh.md)
+
 ---
 read_when:
   - 你想快速检查运行中的 Gateway 网关健康状态

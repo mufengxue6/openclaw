@@ -1,5 +1,8 @@
 # OpenClaw Chrome Extension (Browser Relay)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Purpose: attach OpenClaw to an existing Chrome tab so the Gateway can automate it (via the local CDP relay server).
 
 ## Dev / load unpacked

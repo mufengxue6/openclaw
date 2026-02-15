@@ -1,5 +1,8 @@
 # Bundled Hooks
 
+**[English]** | [简体中文](README_zh.md)
+
+
 This directory contains hooks that ship with OpenClaw. These hooks are automatically discovered and can be enabled/disabled via CLI or configuration.
 
 ## Available Hooks

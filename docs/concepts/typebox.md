@@ -1,3 +1,5 @@
+**[English]** | [简体中文](typebox_zh.md)
+
 ---
 summary: "TypeBox schemas as the single source of truth for the gateway protocol"
 read_when:

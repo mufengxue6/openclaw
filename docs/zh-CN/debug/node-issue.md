@@ -1,3 +1,5 @@
+**[English]** | [简体中文](node-issue_zh.md)
+
 ---
 read_when:
   - 调试仅限 Node 的开发脚本或 watch 模式失败

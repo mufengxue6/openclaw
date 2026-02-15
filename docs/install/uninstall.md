@@ -1,3 +1,5 @@
+**[English]** | [简体中文](uninstall_zh.md)
+
 ---
 summary: "Uninstall OpenClaw completely (CLI, service, state, workspace)"
 read_when:

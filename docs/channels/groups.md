@@ -1,3 +1,5 @@
+**[English]** | [简体中文](groups_zh.md)
+
 ---
 summary: "Group chat behavior across surfaces (WhatsApp/Telegram/Discord/Slack/Signal/iMessage/Microsoft Teams)"
 read_when:

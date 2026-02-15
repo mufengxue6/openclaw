@@ -1,3 +1,5 @@
+**[English]** | [简体中文](manifest_zh.md)
+
 ---
 read_when:
   - 你正在构建一个 OpenClaw 插件

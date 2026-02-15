@@ -1,3 +1,5 @@
+**[English]** | [简体中文](icon_zh.md)
+
 ---
 summary: "Menu bar icon states and animations for OpenClaw on macOS"
 read_when:

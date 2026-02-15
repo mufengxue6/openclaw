@@ -1,3 +1,5 @@
+**[English]** | [简体中文](whatsapp_zh.md)
+
 ---
 read_when:
   - 处理 WhatsApp/网页渠道行为或收件箱路由时

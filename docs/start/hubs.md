@@ -1,3 +1,5 @@
+**[English]** | [简体中文](hubs_zh.md)
+
 ---
 summary: "Hubs that link to every OpenClaw doc"
 read_when:

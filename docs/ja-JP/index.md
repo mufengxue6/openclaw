@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 read_when:
   - 新規ユーザーにOpenClawを紹介するとき

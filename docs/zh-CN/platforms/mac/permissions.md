@@ -1,3 +1,5 @@
+**[English]** | [简体中文](permissions_zh.md)
+
 ---
 read_when:
   - 调试缺失或卡住的 macOS 权限提示

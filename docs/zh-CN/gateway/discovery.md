@@ -1,3 +1,5 @@
+**[English]** | [简体中文](discovery_zh.md)
+
 ---
 read_when:
   - 实现或更改 Bonjour 发现/广播

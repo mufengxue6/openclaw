@@ -1,3 +1,5 @@
+**[English]** | [简体中文](installer_zh.md)
+
 ---
 summary: "How the installer scripts work (install.sh, install-cli.sh, install.ps1), flags, and automation"
 read_when:

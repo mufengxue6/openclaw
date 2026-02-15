@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cron-add-hardening_zh.md)
+
 ---
 summary: "Harden cron.add input handling, align schemas, and improve cron UI/agent tooling"
 owner: "openclaw"

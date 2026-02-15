@@ -1,3 +1,5 @@
+**[English]** | [简体中文](prose_zh.md)
+
 ---
 read_when:
   - 你想运行或编写 .prose 工作流

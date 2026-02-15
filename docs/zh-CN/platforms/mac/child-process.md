@@ -1,3 +1,5 @@
+**[English]** | [简体中文](child-process_zh.md)
+
 ---
 read_when:
   - 将 mac 应用与 Gateway 网关生命周期集成时

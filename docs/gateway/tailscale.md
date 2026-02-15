@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tailscale_zh.md)
+
 ---
 summary: "Integrated Tailscale Serve/Funnel for the Gateway dashboard"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](quickstart_zh.md)
+
 ---
 summary: "Quick start has moved to Getting Started."
 read_when:

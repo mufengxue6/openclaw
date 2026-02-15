@@ -1,3 +1,5 @@
+**[English]** | [简体中文](oauth_zh.md)
+
 ---
 summary: "OAuth in OpenClaw: token exchange, storage, and multi-account patterns"
 read_when:

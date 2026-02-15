@@ -1,3 +1,5 @@
+**[English]** | [简体中文](context_zh.md)
+
 ---
 read_when:
   - 你想了解 OpenClaw 中"上下文"的含义

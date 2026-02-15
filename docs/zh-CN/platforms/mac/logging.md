@@ -1,3 +1,5 @@
+**[English]** | [简体中文](logging_zh.md)
+
 ---
 read_when:
   - 捕获 macOS 日志或调查隐私数据日志记录

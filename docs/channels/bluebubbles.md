@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bluebubbles_zh.md)
+
 ---
 summary: "iMessage via BlueBubbles macOS server (REST send/receive, typing, reactions, pairing, advanced actions)."
 read_when:

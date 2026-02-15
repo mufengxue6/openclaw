@@ -1,3 +1,5 @@
+**[English]** | [简体中文](status_zh.md)
+
 ---
 summary: "CLI reference for `openclaw status` (diagnostics, probes, usage snapshots)"
 read_when:

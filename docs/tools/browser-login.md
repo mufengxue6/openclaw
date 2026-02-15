@@ -1,3 +1,5 @@
+**[English]** | [简体中文](browser-login_zh.md)
+
 ---
 summary: "Manual logins for browser automation + X/Twitter posting"
 read_when:

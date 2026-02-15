@@ -1,3 +1,5 @@
+**[English]** | [简体中文](ios_zh.md)
+
 ---
 summary: "iOS node app: connect to the Gateway, pairing, canvas, and troubleshooting"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](api-usage-costs_zh.md)
+
 ---
 read_when:
   - 你想了解哪些功能可能调用付费 API

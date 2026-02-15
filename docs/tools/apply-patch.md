@@ -1,3 +1,5 @@
+**[English]** | [简体中文](apply-patch_zh.md)
+
 ---
 summary: "Apply multi-file patches with the apply_patch tool"
 read_when:

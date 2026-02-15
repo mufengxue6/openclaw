@@ -1,3 +1,5 @@
+**[English]** | [简体中文](slack_zh.md)
+
 ---
 read_when: Setting up Slack or debugging Slack socket/HTTP mode
 summary: Slack 的 socket 或 HTTP webhook 模式设置

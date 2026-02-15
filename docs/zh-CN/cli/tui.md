@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tui_zh.md)
+
 ---
 read_when:
   - 你想要一个连接 Gateway 网关的终端 UI（支持远程）

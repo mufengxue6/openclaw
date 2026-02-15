@@ -1,3 +1,5 @@
+**[English]** | [简体中文](linux_zh.md)
+
 ---
 read_when:
   - 查找 Linux 配套应用状态时

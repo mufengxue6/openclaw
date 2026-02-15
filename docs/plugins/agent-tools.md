@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent-tools_zh.md)
+
 ---
 summary: "Write agent tools in a plugin (schemas, optional tools, allowlists)"
 read_when:

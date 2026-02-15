@@ -1,5 +1,8 @@
 # Google Antigravity Auth (OpenClaw plugin)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 OAuth provider plugin for **Google Antigravity** (Cloud Code Assist).
 
 ## Enable

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](system-prompt_zh.md)
+
 ---
 read_when:
   - 编辑系统提示词文本、工具列表或时间/心跳部分

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](memory_zh.md)
+
 ---
 summary: "CLI reference for `openclaw memory` (status/index/search)"
 read_when:

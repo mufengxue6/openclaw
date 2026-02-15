@@ -1,3 +1,5 @@
+**[English]** | [简体中文](test_zh.md)
+
 ---
 read_when:
   - 运行或修复测试

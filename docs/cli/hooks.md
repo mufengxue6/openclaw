@@ -1,3 +1,5 @@
+**[English]** | [简体中文](hooks_zh.md)
+
 ---
 summary: "CLI reference for `openclaw hooks` (agent hooks)"
 read_when:

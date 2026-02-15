@@ -1,3 +1,5 @@
+**[English]** | [简体中文](menu-bar_zh.md)
+
 ---
 summary: "Menu bar status logic and what is surfaced to users"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](exec-host_zh.md)
+
 ---
 read_when:
   - 设计 exec 主机路由或 exec 批准

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](ansible_zh.md)
+
 ---
 summary: "Automated, hardened OpenClaw installation with Ansible, Tailscale VPN, and firewall isolation"
 read_when:

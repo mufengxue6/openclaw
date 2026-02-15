@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tlon_zh.md)
+
 ---
 read_when:
   - 开发 Tlon/Urbit 渠道功能

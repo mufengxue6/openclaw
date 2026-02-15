@@ -1,3 +1,5 @@
+**[English]** | [简体中文](environment_zh.md)
+
 ---
 summary: "Where OpenClaw loads environment variables and the precedence order"
 read_when:

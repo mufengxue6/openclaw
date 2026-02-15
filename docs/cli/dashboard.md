@@ -1,3 +1,5 @@
+**[English]** | [简体中文](dashboard_zh.md)
+
 ---
 summary: "CLI reference for `openclaw dashboard` (open the Control UI)"
 read_when:

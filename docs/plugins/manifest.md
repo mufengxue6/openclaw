@@ -1,3 +1,5 @@
+**[English]** | [简体中文](manifest_zh.md)
+
 ---
 summary: "Plugin manifest + JSON schema requirements (strict config validation)"
 read_when:

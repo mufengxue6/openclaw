@@ -1,3 +1,5 @@
+**[English]** | [简体中文](devices_zh.md)
+
 ---
 summary: "CLI reference for `openclaw devices` (device pairing + token rotation/revocation)"
 read_when:

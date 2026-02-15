@@ -1,3 +1,5 @@
+**[English]** | [简体中文](glm_zh.md)
+
 ---
 read_when:
   - 你想在 OpenClaw 中使用 GLM 模型

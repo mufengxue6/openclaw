@@ -1,3 +1,5 @@
+**[English]** | [简体中文](typing-indicators_zh.md)
+
 ---
 read_when:
   - 更改输入指示器的行为或默认设置

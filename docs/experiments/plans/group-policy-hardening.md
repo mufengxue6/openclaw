@@ -1,3 +1,5 @@
+**[English]** | [简体中文](group-policy-hardening_zh.md)
+
 ---
 summary: "Telegram allowlist hardening: prefix + whitespace normalization"
 read_when:

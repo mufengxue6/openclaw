@@ -1,5 +1,8 @@
 # OpenClaw (iOS)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 This is an **alpha** iOS app that connects to an OpenClaw Gateway as a `role: node`.
 
 Expect rough edges:

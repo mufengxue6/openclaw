@@ -1,3 +1,5 @@
+**[English]** | [简体中文](opencode_zh.md)
+
 ---
 summary: "Use OpenCode Zen (curated models) with OpenClaw"
 read_when:

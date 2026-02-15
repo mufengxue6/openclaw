@@ -1,3 +1,5 @@
+**[English]** | [简体中文](troubleshooting_zh.md)
+
 ---
 summary: "Fast channel level troubleshooting with per channel failure signatures and fixes"
 read_when:

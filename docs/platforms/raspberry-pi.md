@@ -1,3 +1,5 @@
+**[English]** | [简体中文](raspberry-pi_zh.md)
+
 ---
 summary: "OpenClaw on Raspberry Pi (budget self-hosted setup)"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](SOUL.dev_zh.md)
+
 ---
 read_when:
   - 使用开发 Gateway 网关模板

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](twitch_zh.md)
+
 ---
 read_when:
   - 为 OpenClaw 设置 Twitch 聊天集成

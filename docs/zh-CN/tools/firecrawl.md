@@ -1,3 +1,5 @@
+**[English]** | [简体中文](firecrawl_zh.md)
+
 ---
 read_when:
   - 你想要 Firecrawl 支持的网页提取

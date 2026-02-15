@@ -1,3 +1,5 @@
+**[English]** | [简体中文](retry_zh.md)
+
 ---
 read_when:
   - 更新提供商重试行为或默认值

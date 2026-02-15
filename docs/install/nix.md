@@ -1,3 +1,5 @@
+**[English]** | [简体中文](nix_zh.md)
+
 ---
 summary: "Install OpenClaw declaratively with Nix"
 read_when:

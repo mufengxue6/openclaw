@@ -1,3 +1,5 @@
+**[English]** | [简体中文](android_zh.md)
+
 ---
 read_when:
   - 配对或重新连接 Android 节点

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](webchat_zh.md)
+
 ---
 read_when:
   - 调试 macOS WebChat 视图或 loopback 端口

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](multiple-gateways_zh.md)
+
 ---
 read_when:
   - 在同一台机器上运行多个 Gateway 网关

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](showcase_zh.md)
+
 ---
 description: Real-world OpenClaw projects from the community
 summary: 社区构建的基于 OpenClaw 的项目和集成

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](github-copilot_zh.md)
+
 ---
 summary: "Sign in to GitHub Copilot from OpenClaw using the device flow"
 read_when:

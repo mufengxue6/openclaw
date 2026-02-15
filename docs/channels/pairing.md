@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pairing_zh.md)
+
 ---
 summary: "Pairing overview: approve who can DM you + which nodes can join"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](troubleshooting_zh.md)
+
 ---
 read_when:
   - 你看到错误并想要修复路径

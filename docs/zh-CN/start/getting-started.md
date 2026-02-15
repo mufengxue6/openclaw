@@ -1,3 +1,5 @@
+**[English]** | [简体中文](getting-started_zh.md)
+
 ---
 read_when:
   - 从零开始首次设置

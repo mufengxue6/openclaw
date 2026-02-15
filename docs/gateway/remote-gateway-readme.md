@@ -1,3 +1,5 @@
+**[English]** | [简体中文](remote-gateway-readme_zh.md)
+
 ---
 summary: "SSH tunnel setup for OpenClaw.app connecting to a remote gateway"
 read_when: "Connecting the macOS app to a remote gateway over SSH"

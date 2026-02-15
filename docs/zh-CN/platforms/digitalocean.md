@@ -1,3 +1,5 @@
+**[English]** | [简体中文](digitalocean_zh.md)
+
 ---
 read_when:
   - 在 DigitalOcean 上设置 OpenClaw

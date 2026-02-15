@@ -1,3 +1,5 @@
+**[English]** | [简体中文](minimax_zh.md)
+
 ---
 summary: "Use MiniMax M2.1 in OpenClaw"
 read_when:

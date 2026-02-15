@@ -1,3 +1,5 @@
+**[English]** | [简体中文](location-command_zh.md)
+
 ---
 read_when:
   - 添加位置节点支持或权限 UI

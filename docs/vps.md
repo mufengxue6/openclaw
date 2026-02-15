@@ -1,3 +1,5 @@
+**[English]** | [简体中文](vps_zh.md)
+
 ---
 summary: "VPS hosting hub for OpenClaw (Oracle/Fly/Hetzner/GCP/exe.dev)"
 read_when:

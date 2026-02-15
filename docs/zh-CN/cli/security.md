@@ -1,3 +1,5 @@
+**[English]** | [简体中文](security_zh.md)
+
 ---
 read_when:
   - 你想对配置/状态运行快速安全审计

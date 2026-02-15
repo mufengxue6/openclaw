@@ -1,3 +1,5 @@
+**[English]** | [简体中文](model-providers_zh.md)
+
 ---
 summary: "Model provider overview with example configs + CLI flows"
 read_when:

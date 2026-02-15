@@ -1,3 +1,5 @@
+**[English]** | [简体中文](webchat_zh.md)
+
 ---
 summary: "How the mac app embeds the gateway WebChat and how to debug it"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](debugging_zh.md)
+
 ---
 read_when:
   - 你需要检查原始模型输出以查找推理泄漏

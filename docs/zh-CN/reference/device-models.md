@@ -1,3 +1,5 @@
+**[English]** | [简体中文](device-models_zh.md)
+
 ---
 read_when:
   - 更新设备型号标识符映射或 NOTICE/许可证文件

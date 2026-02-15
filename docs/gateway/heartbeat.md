@@ -1,3 +1,5 @@
+**[English]** | [简体中文](heartbeat_zh.md)
+
 ---
 summary: "Heartbeat polling messages and notification rules"
 read_when:

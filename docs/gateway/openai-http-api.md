@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openai-http-api_zh.md)
+
 ---
 summary: "Expose an OpenAI-compatible /v1/chat/completions HTTP endpoint from the Gateway"
 read_when:

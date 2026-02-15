@@ -1,3 +1,5 @@
+**[English]** | [简体中文](reset_zh.md)
+
 ---
 summary: "CLI reference for `openclaw reset` (reset local state/config)"
 read_when:

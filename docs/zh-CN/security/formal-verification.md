@@ -1,3 +1,5 @@
+**[English]** | [简体中文](formal-verification_zh.md)
+
 ---
 permalink: /security/formal-verification/
 summary: 针对 OpenClaw 最高风险路径的机器检查安全模型。

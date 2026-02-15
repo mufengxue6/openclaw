@@ -1,3 +1,5 @@
+**[English]** | [简体中文](rpc_zh.md)
+
 ---
 read_when:
   - 添加或更改外部 CLI 集成

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](memory_zh.md)
+
 ---
 read_when:
   - 你想要索引或搜索语义记忆

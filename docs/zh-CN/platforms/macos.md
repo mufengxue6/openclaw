@@ -1,3 +1,5 @@
+**[English]** | [简体中文](macos_zh.md)
+
 ---
 read_when:
   - 实现 macOS 应用功能

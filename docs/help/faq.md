@@ -1,3 +1,5 @@
+**[English]** | [简体中文](faq_zh.md)
+
 ---
 summary: "Frequently asked questions about OpenClaw setup, configuration, and usage"
 title: "FAQ"

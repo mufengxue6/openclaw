@@ -1,3 +1,5 @@
+**[English]** | [简体中文](README_zh.md)
+
 Lit implementation of A2UI.
 
 Important: The sample code provided is for demonstration purposes and illustrates the mechanics of A2UI and the Agent-to-Agent (A2A) protocol. When building production applications, it is critical to treat any agent operating outside of your direct control as a potentially untrusted entity.

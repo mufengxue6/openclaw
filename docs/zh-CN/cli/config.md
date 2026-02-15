@@ -1,3 +1,5 @@
+**[English]** | [简体中文](config_zh.md)
+
 ---
 read_when:
   - 你想以非交互方式读取或编辑配置

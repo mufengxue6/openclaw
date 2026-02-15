@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voicewake_zh.md)
+
 ---
 read_when:
   - 开发语音唤醒或按键通话路径

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](date-time_zh.md)
+
 ---
 read_when:
   - 你正在更改向模型或用户展示时间戳的方式

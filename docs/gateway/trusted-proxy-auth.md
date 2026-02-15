@@ -1,3 +1,5 @@
+**[English]** | [简体中文](trusted-proxy-auth_zh.md)
+
 ---
 summary: "Delegate gateway authentication to a trusted reverse proxy (Pomerium, Caddy, nginx + OAuth)"
 read_when:

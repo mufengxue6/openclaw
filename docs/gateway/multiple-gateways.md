@@ -1,3 +1,5 @@
+**[English]** | [简体中文](multiple-gateways_zh.md)
+
 ---
 summary: "Run multiple OpenClaw Gateways on one host (isolation, ports, and profiles)"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](oauth_zh.md)
+
 ---
 read_when:
   - 你想全面了解 OpenClaw 的 OAuth 流程

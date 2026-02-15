@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openresponses-http-api_zh.md)
+
 ---
 read_when:
   - 集成使用 OpenResponses API 的客户端

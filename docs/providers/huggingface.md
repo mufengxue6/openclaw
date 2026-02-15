@@ -1,3 +1,5 @@
+**[English]** | [简体中文](huggingface_zh.md)
+
 ---
 summary: "Hugging Face Inference setup (auth + model selection)"
 read_when:

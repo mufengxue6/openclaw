@@ -1,3 +1,5 @@
+**[English]** | [简体中文](troubleshooting_zh.md)
+
 ---
 summary: "Deep troubleshooting runbook for gateway, channels, automation, nodes, and browser"
 read_when:

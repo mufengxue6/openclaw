@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openclaw_zh.md)
+
 ---
 summary: "End-to-end guide for running OpenClaw as a personal assistant with safety cautions"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](AGENTS.dev_zh.md)
+
 ---
 summary: "Dev agent AGENTS.md (C-3PO)"
 read_when:

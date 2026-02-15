@@ -1,3 +1,5 @@
+**[English]** | [简体中文](setup_zh.md)
+
 ---
 read_when:
   - 设置新机器

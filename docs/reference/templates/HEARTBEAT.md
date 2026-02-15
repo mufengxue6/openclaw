@@ -1,3 +1,5 @@
+**[English]** | [简体中文](HEARTBEAT_zh.md)
+
 ---
 title: "HEARTBEAT.md Template"
 summary: "Workspace template for HEARTBEAT.md"

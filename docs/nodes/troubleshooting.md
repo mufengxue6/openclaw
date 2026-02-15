@@ -1,3 +1,5 @@
+**[English]** | [简体中文](troubleshooting_zh.md)
+
 ---
 summary: "Troubleshoot node pairing, foreground requirements, permissions, and tool failures"
 read_when:

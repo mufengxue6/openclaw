@@ -1,5 +1,8 @@
 # OpenClaw docs i18n assets
 
+**[English]** | [简体中文](README_zh.md)
+
+
 This folder stores **generated** and **config** files for documentation translations.
 
 ## Files

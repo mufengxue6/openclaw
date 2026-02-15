@@ -1,3 +1,5 @@
+**[English]** | [简体中文](USER_zh.md)
+
 ---
 summary: "User profile record"
 read_when:

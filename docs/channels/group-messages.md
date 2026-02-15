@@ -1,3 +1,5 @@
+**[English]** | [简体中文](group-messages_zh.md)
+
 ---
 summary: "Behavior and config for WhatsApp group message handling (mentionPatterns are shared across surfaces)"
 read_when:

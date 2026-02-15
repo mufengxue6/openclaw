@@ -1,3 +1,5 @@
+**[English]** | [简体中文](hooks_zh.md)
+
 ---
 read_when:
   - 你想为 /new、/reset、/stop 和智能体生命周期事件实现事件驱动自动化

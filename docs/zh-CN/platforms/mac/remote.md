@@ -1,3 +1,5 @@
+**[English]** | [简体中文](remote_zh.md)
+
 ---
 read_when:
   - 设置或调试远程 mac 控制时

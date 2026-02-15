@@ -1,3 +1,5 @@
+**[English]** | [简体中文](update_zh.md)
+
 ---
 read_when:
   - 你想安全地更新源码检出

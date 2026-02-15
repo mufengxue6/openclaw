@@ -1,3 +1,5 @@
+**[English]** | [简体中文](feishu_zh.md)
+
 ---
 summary: "飞书机器人支持状态、功能和配置"
 read_when:

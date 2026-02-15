@@ -1,3 +1,5 @@
+**[English]** | [简体中文](typing-indicators_zh.md)
+
 ---
 summary: "When OpenClaw shows typing indicators and how to tune them"
 read_when:

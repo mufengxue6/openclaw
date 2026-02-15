@@ -1,3 +1,5 @@
+**[English]** | [简体中文](TOOLS.dev_zh.md)
+
 ---
 read_when:
   - 使用开发 gateway 模板

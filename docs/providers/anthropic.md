@@ -1,3 +1,5 @@
+**[English]** | [简体中文](anthropic_zh.md)
+
 ---
 summary: "Use Anthropic Claude via API keys or setup-token in OpenClaw"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](local-models_zh.md)
+
 ---
 read_when:
   - 你想从自己的 GPU 机器提供模型服务

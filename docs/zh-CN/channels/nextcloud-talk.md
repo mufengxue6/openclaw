@@ -1,3 +1,5 @@
+**[English]** | [简体中文](nextcloud-talk_zh.md)
+
 ---
 read_when:
   - 开发 Nextcloud Talk 渠道功能时

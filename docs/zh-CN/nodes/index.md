@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 read_when:
   - 将 iOS/Android 节点配对到 Gateway 网关时

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](compaction_zh.md)
+
 ---
 summary: "Context window + compaction: how OpenClaw keeps sessions under model limits"
 read_when:

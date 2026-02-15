@@ -1,3 +1,5 @@
+**[English]** | [简体中文](browser-login_zh.md)
+
 ---
 read_when:
   - 你需要为浏览器自动化登录网站

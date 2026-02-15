@@ -1,3 +1,5 @@
+**[English]** | [简体中文](browser_zh.md)
+
 ---
 read_when:
   - 你使用 `openclaw browser` 并想要常见任务的示例

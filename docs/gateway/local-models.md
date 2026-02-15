@@ -1,3 +1,5 @@
+**[English]** | [简体中文](local-models_zh.md)
+
 ---
 summary: "Run OpenClaw on local LLMs (LM Studio, vLLM, LiteLLM, custom OpenAI endpoints)"
 read_when:

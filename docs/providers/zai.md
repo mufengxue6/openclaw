@@ -1,3 +1,5 @@
+**[English]** | [简体中文](zai_zh.md)
+
 ---
 summary: "Use Z.AI (GLM models) with OpenClaw"
 read_when:

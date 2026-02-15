@@ -1,3 +1,5 @@
+**[English]** | [简体中文](chrome-extension_zh.md)
+
 ---
 summary: "Chrome extension: let OpenClaw drive your existing Chrome tab"
 read_when:

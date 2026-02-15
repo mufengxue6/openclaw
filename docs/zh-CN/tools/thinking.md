@@ -1,3 +1,5 @@
+**[English]** | [简体中文](thinking_zh.md)
+
 ---
 read_when:
   - 调整思考或详细模式指令解析或默认值时

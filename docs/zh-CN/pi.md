@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pi_zh.md)
+
 ---
 title: Pi 集成架构
 x-i18n:

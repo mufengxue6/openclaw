@@ -1,3 +1,5 @@
+**[English]** | [简体中文](model-failover_zh.md)
+
 ---
 read_when:
   - 诊断认证配置文件轮换、冷却时间或模型回退行为

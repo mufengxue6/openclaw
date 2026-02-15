@@ -1,3 +1,5 @@
+**[English]** | [简体中文](macos-vm_zh.md)
+
 ---
 summary: "Run OpenClaw in a sandboxed macOS VM (local or hosted) when you need isolation or iMessage"
 read_when:

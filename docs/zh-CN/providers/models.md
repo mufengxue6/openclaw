@@ -1,3 +1,5 @@
+**[English]** | [简体中文](models_zh.md)
+
 ---
 read_when:
   - 你想选择一个模型提供商

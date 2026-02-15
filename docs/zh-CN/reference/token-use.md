@@ -1,3 +1,5 @@
+**[English]** | [简体中文](token-use_zh.md)
+
 ---
 read_when:
   - 解释 token 使用量、成本或上下文窗口时

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](discord_zh.md)
+
 ---
 read_when:
   - 开发 Discord 渠道功能时

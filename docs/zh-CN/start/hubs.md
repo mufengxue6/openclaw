@@ -1,3 +1,5 @@
+**[English]** | [简体中文](hubs_zh.md)
+
 ---
 read_when:
   - 你想要一份完整的文档地图

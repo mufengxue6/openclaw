@@ -1,3 +1,5 @@
+**[English]** | [简体中文](health_zh.md)
+
 ---
 read_when:
   - 诊断 WhatsApp 渠道健康状况

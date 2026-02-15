@@ -1,3 +1,5 @@
+**[English]** | [简体中文](api-usage-costs_zh.md)
+
 ---
 summary: "Audit what can spend money, which keys are used, and how to view usage"
 read_when:

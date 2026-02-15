@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cron_zh.md)
+
 ---
 summary: "CLI reference for `openclaw cron` (schedule and run background jobs)"
 read_when:

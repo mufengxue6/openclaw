@@ -1,3 +1,5 @@
+**[English]** | [简体中文](setup_zh.md)
+
 ---
 summary: "CLI reference for `openclaw setup` (initialize config + workspace)"
 read_when:

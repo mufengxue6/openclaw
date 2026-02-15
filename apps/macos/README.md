@@ -1,5 +1,8 @@
 # OpenClaw macOS app (dev + signing)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 ## Quick dev run
 
 ```bash

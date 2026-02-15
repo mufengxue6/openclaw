@@ -1,3 +1,5 @@
+**[English]** | [简体中文](remote_zh.md)
+
 ---
 summary: "Remote access using SSH tunnels (Gateway WS) and tailnets"
 read_when:

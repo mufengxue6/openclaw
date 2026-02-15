@@ -1,3 +1,5 @@
+**[English]** | [简体中文](docker_zh.md)
+
 ---
 summary: "Optional Docker-based setup and onboarding for OpenClaw"
 read_when:

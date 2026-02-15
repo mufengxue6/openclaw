@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openclaw_zh.md)
+
 ---
 read_when:
   - 新手引导新助手实例时

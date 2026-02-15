@@ -1,3 +1,5 @@
+**[English]** | [简体中文](dev-setup_zh.md)
+
 ---
 summary: "Setup guide for developers working on the OpenClaw macOS app"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](nextcloud-talk_zh.md)
+
 ---
 summary: "Nextcloud Talk support status, capabilities, and configuration"
 read_when:

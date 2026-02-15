@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 read_when:
   - 添加扩大访问权限或自动化的功能

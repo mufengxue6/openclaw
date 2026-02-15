@@ -1,3 +1,5 @@
+**[English]** | [简体中文](model-providers_zh.md)
+
 ---
 read_when:
   - 你需要按提供商分类的模型设置参考

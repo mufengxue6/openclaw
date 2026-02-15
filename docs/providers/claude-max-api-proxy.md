@@ -1,3 +1,5 @@
+**[English]** | [简体中文](claude-max-api-proxy_zh.md)
+
 ---
 summary: "Use Claude Max/Pro subscription as an OpenAI-compatible API endpoint"
 read_when:

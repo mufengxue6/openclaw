@@ -1,3 +1,5 @@
+**[English]** | [简体中文](showcase_zh.md)
+
 ---
 title: "Showcase"
 description: "Real-world OpenClaw projects from the community"

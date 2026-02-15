@@ -1,3 +1,5 @@
+**[English]** | [简体中文](synthetic_zh.md)
+
 ---
 read_when:
   - 你想使用 Synthetic 作为模型提供商

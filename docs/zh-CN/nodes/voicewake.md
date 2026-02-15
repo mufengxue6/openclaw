@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voicewake_zh.md)
+
 ---
 read_when:
   - 更改语音唤醒词行为或默认值

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](directory_zh.md)
+
 ---
 read_when:
   - 你想查找某个渠道的联系人/群组/自身 ID

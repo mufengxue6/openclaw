@@ -1,3 +1,5 @@
+**[English]** | [简体中文](slash-commands_zh.md)
+
 ---
 summary: "Slash commands: text vs native, config, and supported commands"
 read_when:

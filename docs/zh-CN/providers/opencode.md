@@ -1,3 +1,5 @@
+**[English]** | [简体中文](opencode_zh.md)
+
 ---
 read_when:
   - 你想通过 OpenCode Zen 访问模型

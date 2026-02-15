@@ -1,3 +1,5 @@
+**[English]** | [简体中文](wizard-cli-automation_zh.md)
+
 ---
 summary: "Scripted onboarding and agent setup for the OpenClaw CLI"
 read_when:

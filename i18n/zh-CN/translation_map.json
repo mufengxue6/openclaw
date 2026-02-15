@@ -1,0 +1,389 @@
+{
+  "en_us": {
+    "missing front matter": {
+      "zh_cn": "缺失头部元数据 (Front Matter)",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "File not found": {
+      "zh_cn": "文件未找到",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Permission denied": {
+      "zh_cn": "权限被拒绝",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Directory not found": {
+      "zh_cn": "目录未找到",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Unknown command": {
+      "zh_cn": "未知命令",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Invalid argument": {
+      "zh_cn": "无效参数",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Usage": {
+      "zh_cn": "用法",
+      "category": "cli_help",
+      "reviewed": true
+    },
+    "Options": {
+      "zh_cn": "选项",
+      "category": "cli_help",
+      "reviewed": true
+    },
+    "Commands": {
+      "zh_cn": "命令",
+      "category": "cli_help",
+      "reviewed": true
+    },
+    "Examples": {
+      "zh_cn": "示例",
+      "category": "cli_help",
+      "reviewed": true
+    },
+    "Version": {
+      "zh_cn": "版本",
+      "category": "cli_help",
+      "reviewed": true
+    },
+    "Help": {
+      "zh_cn": "帮助",
+      "category": "cli_help",
+      "reviewed": true
+    },
+    "Description": {
+      "zh_cn": "描述",
+      "category": "cli_help",
+      "reviewed": true
+    },
+    "Connecting...": {
+      "zh_cn": "正在连接...",
+      "category": "status",
+      "reviewed": true
+    },
+    "Connected": {
+      "zh_cn": "已连接",
+      "category": "status",
+      "reviewed": true
+    },
+    "Disconnected": {
+      "zh_cn": "已断开",
+      "category": "status",
+      "reviewed": true
+    },
+    "Connection failed": {
+      "zh_cn": "连接失败",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Timeout": {
+      "zh_cn": "超时",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Retrying...": {
+      "zh_cn": "正在重试...",
+      "category": "status",
+      "reviewed": true
+    },
+    "Success": {
+      "zh_cn": "成功",
+      "category": "status",
+      "reviewed": true
+    },
+    "Failed": {
+      "zh_cn": "失败",
+      "category": "status",
+      "reviewed": true
+    },
+    "Error": {
+      "zh_cn": "错误",
+      "category": "status",
+      "reviewed": true
+    },
+    "Warning": {
+      "zh_cn": "警告",
+      "category": "status",
+      "reviewed": true
+    },
+    "Info": {
+      "zh_cn": "信息",
+      "category": "status",
+      "reviewed": true
+    },
+    "Debug": {
+      "zh_cn": "调试",
+      "category": "status",
+      "reviewed": true
+    },
+    "Starting OpenClaw...": {
+      "zh_cn": "正在启动 OpenClaw...",
+      "category": "status",
+      "reviewed": true
+    },
+    "OpenClaw is running": {
+      "zh_cn": "OpenClaw 正在运行",
+      "category": "status",
+      "reviewed": true
+    },
+    "Stopping OpenClaw...": {
+      "zh_cn": "正在停止 OpenClaw...",
+      "category": "status",
+      "reviewed": true
+    },
+    "OpenClaw stopped": {
+      "zh_cn": "OpenClaw 已停止",
+      "category": "status",
+      "reviewed": true
+    },
+    "Restarting OpenClaw...": {
+      "zh_cn": "正在重启 OpenClaw...",
+      "category": "status",
+      "reviewed": true
+    },
+    "Config loaded": {
+      "zh_cn": "配置已加载",
+      "category": "status",
+      "reviewed": true
+    },
+    "Error loading config": {
+      "zh_cn": "加载配置错误",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Session started": {
+      "zh_cn": "会话已开始",
+      "category": "status",
+      "reviewed": true
+    },
+    "Session ended": {
+      "zh_cn": "会话已结束",
+      "category": "status",
+      "reviewed": true
+    },
+    "New message from": {
+      "zh_cn": "收到新消息来自",
+      "category": "status",
+      "reviewed": true
+    },
+    "Reply sent": {
+      "zh_cn": "回复已发送",
+      "category": "status",
+      "reviewed": true
+    },
+    "Tool call failed": {
+      "zh_cn": "工具调用失败",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Command executed": {
+      "zh_cn": "命令已执行",
+      "category": "status",
+      "reviewed": true
+    },
+    "HEARTBEAT_OK": {
+      "zh_cn": "心跳正常",
+      "category": "system",
+      "reviewed": true
+    },
+    "NO_REPLY": {
+      "zh_cn": "无回复",
+      "category": "system",
+      "reviewed": true
+    },
+    "send failed": {
+      "zh_cn": "发送失败",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "attach failed": {
+      "zh_cn": "附加失败",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "WebSocket connect failed": {
+      "zh_cn": "WebSocket 连接失败",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "summary key missing": {
+      "zh_cn": "摘要键 (summary key) 缺失",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "docs:list: missing docs directory. Run from repo root.": {
+      "zh_cn": "docs:list: 缺少 docs 目录。请在仓库根目录下运行。",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "helpOnErrorShown": {
+      "zh_cn": "已显示错误帮助",
+      "category": "status",
+      "reviewed": true
+    },
+    "missing native bridge": {
+      "zh_cn": "缺失原生桥接 (native bridge)",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Failed: missing native bridge": {
+      "zh_cn": "失败: 缺失原生桥接",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "A2UI: expected messages array": {
+      "zh_cn": "A2UI: 需要消息数组",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "Agent failed before reply": {
+      "zh_cn": "Agent 在回复前失败",
+      "category": "error_message",
+      "reviewed": true
+    },
+    "requires": {
+      "zh_cn": "需要",
+      "category": "cli_help",
+      "reviewed": true
+    },
+    "install": {
+      "zh_cn": "安装",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "remove": {
+      "zh_cn": "移除",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "update": {
+      "zh_cn": "更新",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "list": {
+      "zh_cn": "列表",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "show": {
+      "zh_cn": "显示",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "get": {
+      "zh_cn": "获取",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "set": {
+      "zh_cn": "设置",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "delete": {
+      "zh_cn": "删除",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "create": {
+      "zh_cn": "创建",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "run": {
+      "zh_cn": "运行",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "start": {
+      "zh_cn": "启动",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "stop": {
+      "zh_cn": "停止",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "restart": {
+      "zh_cn": "重启",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "status": {
+      "zh_cn": "状态",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "config": {
+      "zh_cn": "配置",
+      "category": "cli_action",
+      "reviewed": true
+    },
+    "Gateway": {
+      "zh_cn": "网关",
+      "category": "component",
+      "reviewed": true
+    },
+    "Node": {
+      "zh_cn": "节点",
+      "category": "component",
+      "reviewed": true
+    },
+    "Session": {
+      "zh_cn": "会话",
+      "category": "component",
+      "reviewed": true
+    },
+    "Agent": {
+      "zh_cn": "智能体",
+      "category": "component",
+      "reviewed": true
+    },
+    "Skill": {
+      "zh_cn": "技能",
+      "category": "component",
+      "reviewed": true
+    },
+    "Tool": {
+      "zh_cn": "工具",
+      "category": "component",
+      "reviewed": true
+    },
+    "Memory": {
+      "zh_cn": "记忆",
+      "category": "component",
+      "reviewed": true
+    },
+    "Model": {
+      "zh_cn": "模型",
+      "category": "component",
+      "reviewed": true
+    },
+    "Provider": {
+      "zh_cn": "提供商",
+      "category": "component",
+      "reviewed": true
+    },
+    "Token": {
+      "zh_cn": "令牌",
+      "category": "component",
+      "reviewed": true
+    },
+    "Cost": {
+      "zh_cn": "成本",
+      "category": "component",
+      "reviewed": true
+    }
+  }
+}

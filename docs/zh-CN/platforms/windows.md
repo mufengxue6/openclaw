@@ -1,3 +1,5 @@
+**[English]** | [简体中文](windows_zh.md)
+
 ---
 read_when:
   - 在 Windows 上安装 OpenClaw

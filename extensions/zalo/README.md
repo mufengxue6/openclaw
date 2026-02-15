@@ -1,5 +1,8 @@
 # @openclaw/zalo
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Zalo channel plugin for OpenClaw (Bot API).
 
 ## Install (local checkout)

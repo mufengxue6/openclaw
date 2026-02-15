@@ -1,3 +1,5 @@
+**[English]** | [简体中文](android_zh.md)
+
 ---
 summary: "Android app (node): connection runbook + Canvas/Chat/Camera"
 read_when:

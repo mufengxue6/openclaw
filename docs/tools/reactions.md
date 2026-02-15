@@ -1,3 +1,5 @@
+**[English]** | [简体中文](reactions_zh.md)
+
 ---
 summary: "Reaction semantics shared across channels"
 read_when:

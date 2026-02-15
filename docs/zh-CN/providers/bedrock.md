@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bedrock_zh.md)
+
 ---
 read_when:
   - 你想在 OpenClaw 中使用 Amazon Bedrock 模型

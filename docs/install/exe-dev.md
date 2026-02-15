@@ -1,3 +1,5 @@
+**[English]** | [简体中文](exe-dev_zh.md)
+
 ---
 summary: "Run OpenClaw Gateway on exe.dev (VM + HTTPS proxy) for remote access"
 read_when:

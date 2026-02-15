@@ -1,3 +1,5 @@
+**[English]** | [简体中文](debugging_zh.md)
+
 ---
 summary: "Debugging tools: watch mode, raw model streams, and tracing reasoning leakage"
 read_when:

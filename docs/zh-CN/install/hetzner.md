@@ -1,3 +1,5 @@
+**[English]** | [简体中文](hetzner_zh.md)
+
 ---
 read_when:
   - 你想让 OpenClaw 在云 VPS 上 24/7 运行（而不是你的笔记本电脑）

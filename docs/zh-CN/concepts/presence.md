@@ -1,3 +1,5 @@
+**[English]** | [简体中文](presence_zh.md)
+
 ---
 read_when:
   - 调试实例标签页

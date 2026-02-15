@@ -1,3 +1,5 @@
+**[English]** | [简体中文](plugin_zh.md)
+
 ---
 summary: "OpenClaw plugins/extensions: discovery, config, and safety"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](markdown-formatting_zh.md)
+
 ---
 summary: "Markdown formatting pipeline for outbound channels"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](glm_zh.md)
+
 ---
 summary: "GLM model family overview + how to use it in OpenClaw"
 read_when:

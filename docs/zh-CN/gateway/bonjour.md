@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bonjour_zh.md)
+
 ---
 read_when:
   - 在 macOS/iOS 上调试 Bonjour 设备发现问题时

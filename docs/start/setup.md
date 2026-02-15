@@ -1,3 +1,5 @@
+**[English]** | [简体中文](setup_zh.md)
+
 ---
 summary: "Advanced setup and development workflows for OpenClaw"
 read_when:

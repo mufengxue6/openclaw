@@ -1,3 +1,5 @@
+**[English]** | [简体中文](reset_zh.md)
+
 ---
 read_when:
   - 你想在保留 CLI 安装的同时清除本地状态

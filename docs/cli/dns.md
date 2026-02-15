@@ -1,3 +1,5 @@
+**[English]** | [简体中文](dns_zh.md)
+
 ---
 summary: "CLI reference for `openclaw dns` (wide-area discovery helpers)"
 read_when:

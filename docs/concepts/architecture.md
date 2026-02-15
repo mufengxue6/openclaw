@@ -1,3 +1,5 @@
+**[English]** | [简体中文](architecture_zh.md)
+
 ---
 summary: "WebSocket gateway architecture, components, and client flows"
 read_when:

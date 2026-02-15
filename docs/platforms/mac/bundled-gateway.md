@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bundled-gateway_zh.md)
+
 ---
 summary: "Gateway runtime on macOS (external launchd service)"
 read_when:

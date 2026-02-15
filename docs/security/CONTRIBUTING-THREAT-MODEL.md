@@ -1,5 +1,8 @@
 # Contributing to the OpenClaw Threat Model
 
+**[English]** | [简体中文](CONTRIBUTING-THREAT-MODEL_zh.md)
+
+
 Thanks for helping make OpenClaw more secure. This threat model is a living document and we welcome contributions from anyone - you don't need to be a security expert.
 
 ## Ways to Contribute

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](xiaomi_zh.md)
+
 ---
 summary: "Use Xiaomi MiMo (mimo-v2-flash) with OpenClaw"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](nostr_zh.md)
+
 ---
 read_when:
   - 你希望 OpenClaw 通过 Nostr 接收私信

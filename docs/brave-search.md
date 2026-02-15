@@ -1,3 +1,5 @@
+**[English]** | [简体中文](brave-search_zh.md)
+
 ---
 summary: "Brave Search API setup for web_search"
 read_when:

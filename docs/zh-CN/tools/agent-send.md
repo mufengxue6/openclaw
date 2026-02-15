@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent-send_zh.md)
+
 ---
 read_when:
   - 添加或修改智能体 CLI 入口点

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent-loop_zh.md)
+
 ---
 summary: "Agent loop lifecycle, streams, and wait semantics"
 read_when:

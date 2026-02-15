@@ -1,3 +1,5 @@
+**[English]** | [简体中文](location_zh.md)
+
 ---
 read_when:
   - 添加或修改渠道位置解析

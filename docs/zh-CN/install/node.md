@@ -1,3 +1,5 @@
+**[English]** | [简体中文](node_zh.md)
+
 ---
 summary: Node.js 安装与配置（OpenClaw 版本要求、安装方式与 PATH 排错）
 title: Node.js

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](retry_zh.md)
+
 ---
 summary: "Retry policy for outbound provider calls"
 read_when:

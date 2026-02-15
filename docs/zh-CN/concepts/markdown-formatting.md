@@ -1,3 +1,5 @@
+**[English]** | [简体中文](markdown-formatting_zh.md)
+
 ---
 read_when:
   - 你正在更改出站渠道的 Markdown 格式化或分块逻辑

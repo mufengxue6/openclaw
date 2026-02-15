@@ -1,3 +1,5 @@
+**[English]** | [简体中文](lore_zh.md)
+
 ---
 summary: "Backstory and lore of OpenClaw for context and tone"
 read_when:

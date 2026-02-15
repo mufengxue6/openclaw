@@ -1,3 +1,5 @@
+**[English]** | [简体中文](location_zh.md)
+
 ---
 summary: "Inbound channel location parsing (Telegram + WhatsApp) and context fields"
 read_when:

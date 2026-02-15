@@ -1,3 +1,5 @@
+**[English]** | [简体中文](usage-tracking_zh.md)
+
 ---
 summary: "Usage tracking surfaces and credential requirements"
 read_when:

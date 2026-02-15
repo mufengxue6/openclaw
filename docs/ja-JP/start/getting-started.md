@@ -1,3 +1,5 @@
+**[English]** | [简体中文](getting-started_zh.md)
+
 ---
 read_when:
   - ゼロからの初回セットアップ

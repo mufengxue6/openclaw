@@ -1,3 +1,5 @@
+**[English]** | [简体中文](plugin-sdk_zh.md)
+
 ---
 read_when:
   - 定义或重构插件架构

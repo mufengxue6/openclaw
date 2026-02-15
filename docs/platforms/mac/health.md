@@ -1,3 +1,5 @@
+**[English]** | [简体中文](health_zh.md)
+
 ---
 summary: "How the macOS app reports gateway/Baileys health states"
 read_when:

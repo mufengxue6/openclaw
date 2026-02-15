@@ -1,3 +1,5 @@
+**[English]** | [简体中文](oracle_zh.md)
+
 ---
 summary: "OpenClaw on Oracle Cloud (Always Free ARM)"
 read_when:

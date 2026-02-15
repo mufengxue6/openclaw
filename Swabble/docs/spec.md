@@ -1,5 +1,8 @@
 # swabble — macOS 26 speech hook daemon (Swift 6.2)
 
+**[English]** | [简体中文](spec_zh.md)
+
+
 Goal: brabble-style always-on voice hook for macOS 26 using Apple Speech.framework (SpeechAnalyzer + SpeechTranscriber) instead of whisper.cpp. Local-only, wake word gated, dispatches a shell hook with the transcript. Shared wake-gate utilities live in `SwabbleKit` for reuse by other apps (iOS/macOS).
 
 ## Requirements

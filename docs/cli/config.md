@@ -1,3 +1,5 @@
+**[English]** | [简体中文](config_zh.md)
+
 ---
 summary: "CLI reference for `openclaw config` (get/set/unset config values)"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](SOUL_zh.md)
+
 ---
 read_when:
   - 手动引导工作区

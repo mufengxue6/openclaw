@@ -1,3 +1,5 @@
+**[English]** | [简体中文](ollama_zh.md)
+
 ---
 summary: "Run OpenClaw with Ollama (local LLM runtime)"
 read_when:

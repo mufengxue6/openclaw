@@ -1,3 +1,5 @@
+**[English]** | [简体中文](strict-config_zh.md)
+
 ---
 summary: "Strict config validation + doctor-only migrations"
 read_when:

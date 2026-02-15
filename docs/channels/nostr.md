@@ -1,3 +1,5 @@
+**[English]** | [简体中文](nostr_zh.md)
+
 ---
 summary: "Nostr DM channel via NIP-04 encrypted messages"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent_zh.md)
+
 ---
 summary: "Agent runtime (embedded pi-mono), workspace contract, and session bootstrap"
 read_when:

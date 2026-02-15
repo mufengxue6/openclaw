@@ -1,3 +1,5 @@
+**[English]** | [简体中文](multi-agent-sandbox-tools_zh.md)
+
 ---
 read_when: You want per-agent sandboxing or per-agent tool allow/deny policies in a multi-agent gateway.
 status: active

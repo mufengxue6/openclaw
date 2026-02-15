@@ -1,3 +1,5 @@
+**[English]** | [简体中文](child-process_zh.md)
+
 ---
 summary: "Gateway lifecycle on macOS (launchd)"
 read_when:

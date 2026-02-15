@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bonjour_zh.md)
+
 ---
 summary: "Bonjour/mDNS discovery + debugging (Gateway beacons, clients, and common failure modes)"
 read_when:

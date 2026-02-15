@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pairing_zh.md)
+
 ---
 read_when:
   - 你正在使用配对模式私信并需要批准发送者

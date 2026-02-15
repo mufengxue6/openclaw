@@ -1,3 +1,5 @@
+**[English]** | [简体中文](network-model_zh.md)
+
 ---
 summary: "How the Gateway, nodes, and canvas host connect."
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](node_zh.md)
+
 ---
 read_when:
   - 运行无头节点主机

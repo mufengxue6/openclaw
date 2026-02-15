@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bridge-protocol_zh.md)
+
 ---
 read_when:
   - 构建或调试节点客户端（iOS/Android/macOS 节点模式）

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](prose_zh.md)
+
 ---
 summary: "OpenProse: .prose workflows, slash commands, and state in OpenClaw"
 read_when:

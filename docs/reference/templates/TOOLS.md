@@ -1,3 +1,5 @@
+**[English]** | [简体中文](TOOLS_zh.md)
+
 ---
 title: "TOOLS.md Template"
 summary: "Workspace template for TOOLS.md"

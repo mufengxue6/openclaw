@@ -1,3 +1,5 @@
+**[English]** | [简体中文](ci_zh.md)
+
 ---
 title: CI Pipeline
 description: How the OpenClaw CI pipeline works

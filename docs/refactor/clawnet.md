@@ -1,3 +1,5 @@
+**[English]** | [简体中文](clawnet_zh.md)
+
 ---
 summary: "Clawnet refactor: unify network protocol, roles, auth, approvals, identity"
 read_when:

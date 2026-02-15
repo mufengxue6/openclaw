@@ -1,3 +1,5 @@
+**[English]** | [简体中文](session_zh.md)
+
 ---
 summary: "Session management rules, keys, and persistence for chats"
 read_when:

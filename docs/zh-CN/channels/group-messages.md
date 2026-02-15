@@ -1,3 +1,5 @@
+**[English]** | [简体中文](group-messages_zh.md)
+
 ---
 read_when:
   - 更改群组消息规则或提及设置时

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](xpc_zh.md)
+
 ---
 summary: "macOS IPC architecture for OpenClaw app, gateway node transport, and PeekabooBridge"
 read_when:

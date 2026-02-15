@@ -1,3 +1,5 @@
+**[English]** | [简体中文](hooks_zh.md)
+
 ---
 summary: "Hooks: event-driven automation for commands and lifecycle events"
 read_when:

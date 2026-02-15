@@ -1,3 +1,5 @@
+**[English]** | [简体中文](qianfan_zh.md)
+
 ---
 summary: "Use Qianfan's unified API to access many models in OpenClaw"
 read_when:

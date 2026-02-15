@@ -1,3 +1,5 @@
+**[English]** | [简体中文](camera_zh.md)
+
 ---
 summary: "Camera capture (iOS node + macOS app) for agent use: photos (jpg) and short video clips (mp4)"
 read_when:

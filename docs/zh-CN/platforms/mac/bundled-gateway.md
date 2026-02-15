@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bundled-gateway_zh.md)
+
 ---
 read_when:
   - 打包 OpenClaw.app

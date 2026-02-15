@@ -1,3 +1,5 @@
+**[English]** | [简体中文](configuration-examples_zh.md)
+
 ---
 read_when:
   - 学习如何配置 OpenClaw

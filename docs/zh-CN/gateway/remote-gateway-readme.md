@@ -1,3 +1,5 @@
+**[English]** | [简体中文](remote-gateway-readme_zh.md)
+
 ---
 read_when: Connecting the macOS app to a remote gateway over SSH
 summary: OpenClaw.app 连接远程 Gateway 网关的 SSH 隧道设置

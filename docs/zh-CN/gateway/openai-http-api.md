@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openai-http-api_zh.md)
+
 ---
 read_when:
   - 集成需要 OpenAI Chat Completions 的工具

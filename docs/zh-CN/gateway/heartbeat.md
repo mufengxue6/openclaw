@@ -1,3 +1,5 @@
+**[English]** | [简体中文](heartbeat_zh.md)
+
 ---
 read_when:
   - 调整心跳频率或消息时

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](context_zh.md)
+
 ---
 summary: "Context: what the model sees, how it is built, and how to inspect it"
 read_when:

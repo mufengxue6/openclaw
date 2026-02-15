@@ -1,3 +1,5 @@
+**[English]** | [简体中文](logs_zh.md)
+
 ---
 summary: "CLI reference for `openclaw logs` (tail gateway logs via RPC)"
 read_when:

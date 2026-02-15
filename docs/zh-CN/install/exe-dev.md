@@ -1,3 +1,5 @@
+**[English]** | [简体中文](exe-dev_zh.md)
+
 ---
 read_when:
   - 你想要一个便宜的常驻 Linux 主机来运行 Gateway 网关

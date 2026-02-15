@@ -1,3 +1,5 @@
+**[English]** | [简体中文](browser_zh.md)
+
 ---
 read_when:
   - 添加智能体控制的浏览器自动化

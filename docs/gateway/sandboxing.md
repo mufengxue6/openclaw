@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sandboxing_zh.md)
+
 ---
 summary: "How OpenClaw sandboxing works: modes, scopes, workspace access, and images"
 title: Sandboxing

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](zalouser_zh.md)
+
 ---
 read_when:
   - 你想在 OpenClaw 中支持 Zalo Personal（非官方）

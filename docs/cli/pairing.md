@@ -1,3 +1,5 @@
+**[English]** | [简体中文](pairing_zh.md)
+
 ---
 summary: "CLI reference for `openclaw pairing` (approve/list pairing requests)"
 read_when:

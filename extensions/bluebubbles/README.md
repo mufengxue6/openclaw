@@ -1,5 +1,8 @@
 # BlueBubbles extension (developer reference)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 This directory contains the **BlueBubbles external channel plugin** for OpenClaw.
 
 If you’re looking for **how to use BlueBubbles as an agent/tool user**, see:

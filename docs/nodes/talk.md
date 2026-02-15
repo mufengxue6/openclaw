@@ -1,3 +1,5 @@
+**[English]** | [简体中文](talk_zh.md)
+
 ---
 summary: "Talk mode: continuous speech conversations with ElevenLabs TTS"
 read_when:

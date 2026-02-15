@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Help hub: common fixes, install sanity, and where to look when something breaks"
 read_when:

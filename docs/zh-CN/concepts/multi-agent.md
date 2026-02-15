@@ -1,3 +1,5 @@
+**[English]** | [简体中文](multi-agent_zh.md)
+
 ---
 read_when: You want multiple isolated agents (workspaces + auth) in one gateway process.
 status: active

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](devices_zh.md)
+
 ---
 read_when:
   - 你正在批准设备配对请求

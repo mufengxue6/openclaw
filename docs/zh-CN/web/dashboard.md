@@ -1,3 +1,5 @@
+**[English]** | [简体中文](dashboard_zh.md)
+
 ---
 read_when:
   - 更改仪表板认证或暴露模式

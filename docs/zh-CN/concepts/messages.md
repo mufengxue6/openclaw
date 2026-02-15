@@ -1,3 +1,5 @@
+**[English]** | [简体中文](messages_zh.md)
+
 ---
 read_when:
   - 解释入站消息如何转化为回复

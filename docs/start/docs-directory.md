@@ -1,3 +1,5 @@
+**[English]** | [简体中文](docs-directory_zh.md)
+
 ---
 summary: "Curated links to the most used OpenClaw docs."
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](canvas_zh.md)
+
 ---
 summary: "Agent-controlled Canvas panel embedded via WKWebView + custom URL scheme"
 read_when:

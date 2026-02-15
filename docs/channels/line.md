@@ -1,3 +1,5 @@
+**[English]** | [简体中文](line_zh.md)
+
 ---
 summary: "LINE Messaging API plugin setup, config, and usage"
 read_when:

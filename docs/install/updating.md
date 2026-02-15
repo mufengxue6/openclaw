@@ -1,3 +1,5 @@
+**[English]** | [简体中文](updating_zh.md)
+
 ---
 summary: "Updating OpenClaw safely (global install or source), plus rollback strategy"
 read_when:

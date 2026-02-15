@@ -1,5 +1,8 @@
 # OpenClaw Threat Model v1.0
 
+**[English]** | [简体中文](THREAT-MODEL-ATLAS_zh.md)
+
+
 ## MITRE ATLAS Framework
 
 **Version:** 1.0-draft

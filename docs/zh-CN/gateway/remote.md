@@ -1,3 +1,5 @@
+**[English]** | [简体中文](remote_zh.md)
+
 ---
 read_when:
   - 运行或排查远程 Gateway 网关设置问题

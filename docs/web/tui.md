@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tui_zh.md)
+
 ---
 summary: "Terminal UI (TUI): connect to the Gateway from any machine"
 read_when:

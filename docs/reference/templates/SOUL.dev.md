@@ -1,3 +1,5 @@
+**[English]** | [简体中文](SOUL.dev_zh.md)
+
 ---
 summary: "Dev agent soul (C-3PO)"
 read_when:

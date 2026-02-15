@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voicewake_zh.md)
+
 ---
 summary: "Global voice wake words (Gateway-owned) and how they sync across nodes"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](onboarding-config-protocol_zh.md)
+
 ---
 read_when: Changing onboarding wizard steps or config schema endpoints
 summary: 新手引导向导和配置模式的 RPC 协议说明

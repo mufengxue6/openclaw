@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tui_zh.md)
+
 ---
 summary: "CLI reference for `openclaw tui` (terminal UI connected to the Gateway)"
 read_when:

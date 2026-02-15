@@ -1,5 +1,8 @@
 # ClawDock <!-- omit in toc -->
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Stop typing `docker-compose` commands. Just type `clawdock-start`.
 
 Inspired by Simon Willison's [Running OpenClaw in Docker](https://til.simonwillison.net/llms/openclaw-docker).

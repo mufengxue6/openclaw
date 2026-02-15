@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cron-vs-heartbeat_zh.md)
+
 ---
 summary: "Guidance for choosing between heartbeat and cron jobs for automation"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](wizard_zh.md)
+
 ---
 summary: "CLI onboarding wizard: guided setup for gateway, workspace, channels, and skills"
 read_when:

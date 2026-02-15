@@ -1,3 +1,5 @@
+**[English]** | [简体中文](SOUL_zh.md)
+
 ---
 title: "SOUL.md Template"
 summary: "Workspace template for SOUL.md"

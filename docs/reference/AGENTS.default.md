@@ -1,3 +1,5 @@
+**[English]** | [简体中文](AGENTS.default_zh.md)
+
 ---
 title: "Default AGENTS.md"
 summary: "Default OpenClaw agent instructions and skills roster for the personal assistant setup"

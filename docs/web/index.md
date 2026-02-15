@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Gateway web surfaces: Control UI, bind modes, and security"
 read_when:

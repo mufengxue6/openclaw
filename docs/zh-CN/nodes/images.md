@@ -1,3 +1,5 @@
+**[English]** | [简体中文](images_zh.md)
+
 ---
 read_when:
   - 修改媒体管道或附件

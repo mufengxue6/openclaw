@@ -1,3 +1,5 @@
+**[English]** | [简体中文](environment_zh.md)
+
 ---
 read_when:
   - 你需要知道哪些环境变量被加载，以及加载顺序

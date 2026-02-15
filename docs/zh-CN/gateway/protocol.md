@@ -1,3 +1,5 @@
+**[English]** | [简体中文](protocol_zh.md)
+
 ---
 read_when:
   - 实现或更新 Gateway 网关 WS 客户端

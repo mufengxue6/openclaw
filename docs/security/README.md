@@ -1,5 +1,8 @@
 # OpenClaw Security & Trust
 
+**[English]** | [简体中文](README_zh.md)
+
+
 **Live:** [trust.openclaw.ai](https://trust.openclaw.ai)
 
 ## Documents

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](skills_zh.md)
+
 ---
 summary: "CLI reference for `openclaw skills` (list/info/check) and skill eligibility"
 read_when:

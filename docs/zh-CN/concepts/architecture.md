@@ -1,3 +1,5 @@
+**[English]** | [简体中文](architecture_zh.md)
+
 ---
 read_when:
   - 正在开发 Gateway 网关协议、客户端或传输层

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openresponses-gateway_zh.md)
+
 ---
 last_updated: "2026-01-19"
 owner: openclaw

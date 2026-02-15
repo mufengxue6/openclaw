@@ -1,3 +1,5 @@
+**[English]** | [简体中文](features_zh.md)
+
 ---
 read_when:
   - 你想了解 OpenClaw 支持的完整功能列表

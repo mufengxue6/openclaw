@@ -1,3 +1,5 @@
+**[English]** | [简体中文](reactions_zh.md)
+
 ---
 read_when:
   - 在任何渠道中处理表情回应相关工作

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](subagents_zh.md)
+
 ---
 read_when:
   - 你想通过智能体执行后台/并行工作

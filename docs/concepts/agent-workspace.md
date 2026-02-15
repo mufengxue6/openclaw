@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent-workspace_zh.md)
+
 ---
 summary: "Agent workspace: location, layout, and backup strategy"
 read_when:

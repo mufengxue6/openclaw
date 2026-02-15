@@ -1,3 +1,5 @@
+**[English]** | [简体中文](formal-verification_zh.md)
+
 ---
 title: Formal Verification (Security Models)
 summary: Machine-checked security models for OpenClaw’s highest-risk paths.

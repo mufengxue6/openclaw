@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Platform support overview (Gateway + companion apps)"
 read_when:

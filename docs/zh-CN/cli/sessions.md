@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sessions_zh.md)
+
 ---
 read_when:
   - 你想列出已存储的会话并查看近期活动

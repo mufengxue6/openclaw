@@ -1,5 +1,8 @@
 # @openclaw/twitch
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Twitch channel plugin for OpenClaw.
 
 ## Install (local checkout)

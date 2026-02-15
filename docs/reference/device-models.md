@@ -1,3 +1,5 @@
+**[English]** | [简体中文](device-models_zh.md)
+
 ---
 summary: "How OpenClaw vendors Apple device model identifiers for friendly names in the macOS app."
 read_when:

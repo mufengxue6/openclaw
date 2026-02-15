@@ -1,3 +1,5 @@
+**[English]** | [简体中文](elevated_zh.md)
+
 ---
 read_when:
   - 调整提升模式默认值、允许列表或斜杠命令行为

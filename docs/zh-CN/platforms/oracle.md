@@ -1,3 +1,5 @@
+**[English]** | [简体中文](oracle_zh.md)
+
 ---
 read_when:
   - 在 Oracle Cloud 上设置 OpenClaw

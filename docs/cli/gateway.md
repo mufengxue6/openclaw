@@ -1,3 +1,5 @@
+**[English]** | [简体中文](gateway_zh.md)
+
 ---
 summary: "OpenClaw Gateway CLI (`openclaw gateway`) — run, query, and discover gateways"
 read_when:

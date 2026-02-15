@@ -1,3 +1,5 @@
+**[English]** | [简体中文](session-pruning_zh.md)
+
 ---
 title: "Session Pruning"
 summary: "Session pruning: tool-result trimming to reduce context bloat"

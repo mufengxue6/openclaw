@@ -1,3 +1,5 @@
+**[English]** | [简体中文](node_zh.md)
+
 ---
 summary: "CLI reference for `openclaw node` (headless node host)"
 read_when:

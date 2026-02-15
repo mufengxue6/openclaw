@@ -1,3 +1,5 @@
+**[English]** | [简体中文](health_zh.md)
+
 ---
 read_when:
   - 调试 Mac 应用健康指示器

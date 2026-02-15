@@ -1,3 +1,5 @@
+**[English]** | [简体中文](doctor_zh.md)
+
 ---
 summary: "CLI reference for `openclaw doctor` (health checks + guided repairs)"
 read_when:

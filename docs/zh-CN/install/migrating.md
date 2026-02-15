@@ -1,3 +1,5 @@
+**[English]** | [简体中文](migrating_zh.md)
+
 ---
 read_when:
   - 你正在将 OpenClaw 迁移到新的笔记本电脑/服务器

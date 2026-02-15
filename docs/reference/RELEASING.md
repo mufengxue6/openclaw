@@ -1,3 +1,5 @@
+**[English]** | [简体中文](RELEASING_zh.md)
+
 ---
 title: "Release Checklist"
 summary: "Step-by-step release checklist for npm + macOS app"

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](README_zh.md)
+
 ## OpenClaw Node (Android) (internal)
 
 Modern Android node app: connects to the **Gateway WebSocket** (`_openclaw-gw._tcp`) and exposes **Canvas + Chat + Camera**.

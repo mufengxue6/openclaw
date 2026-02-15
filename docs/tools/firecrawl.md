@@ -1,3 +1,5 @@
+**[English]** | [简体中文](firecrawl_zh.md)
+
 ---
 summary: "Firecrawl fallback for web_fetch (anti-bot + cached extraction)"
 read_when:

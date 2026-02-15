@@ -1,3 +1,5 @@
+**[English]** | [简体中文](dashboard_zh.md)
+
 ---
 summary: "Gateway dashboard (Control UI) access and auth"
 read_when:

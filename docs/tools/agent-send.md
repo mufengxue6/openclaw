@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent-send_zh.md)
+
 ---
 summary: "Direct `openclaw agent` CLI runs (with optional delivery)"
 read_when:

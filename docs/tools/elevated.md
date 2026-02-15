@@ -1,3 +1,5 @@
+**[English]** | [简体中文](elevated_zh.md)
+
 ---
 summary: "Elevated exec mode and /elevated directives"
 read_when:

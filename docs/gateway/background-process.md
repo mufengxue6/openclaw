@@ -1,3 +1,5 @@
+**[English]** | [简体中文](background-process_zh.md)
+
 ---
 summary: "Background exec execution and process management"
 read_when:

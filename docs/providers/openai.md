@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openai_zh.md)
+
 ---
 summary: "Use OpenAI via API keys or Codex subscription in OpenClaw"
 read_when:

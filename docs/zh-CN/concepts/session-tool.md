@@ -1,3 +1,5 @@
+**[English]** | [简体中文](session-tool_zh.md)
+
 ---
 read_when:
   - 添加或修改会话工具时

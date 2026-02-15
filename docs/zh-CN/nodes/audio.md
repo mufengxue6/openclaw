@@ -1,3 +1,5 @@
+**[English]** | [简体中文](audio_zh.md)
+
 ---
 read_when:
   - 更改音频转录或媒体处理方式

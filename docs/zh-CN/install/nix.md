@@ -1,3 +1,5 @@
+**[English]** | [简体中文](nix_zh.md)
+
 ---
 read_when:
   - 你想要可复现、可回滚的安装

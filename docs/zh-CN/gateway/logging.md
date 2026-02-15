@@ -1,3 +1,5 @@
+**[English]** | [简体中文](logging_zh.md)
+
 ---
 read_when:
   - 更改日志输出或格式

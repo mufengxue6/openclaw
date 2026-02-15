@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bun_zh.md)
+
 ---
 summary: "Bun workflow (experimental): installs and gotchas vs pnpm"
 read_when:

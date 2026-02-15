@@ -1,3 +1,5 @@
+**[English]** | [简体中文](onboarding_zh.md)
+
 ---
 read_when:
   - 设计 macOS 新手引导助手

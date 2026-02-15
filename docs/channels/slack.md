@@ -1,3 +1,5 @@
+**[English]** | [简体中文](slack_zh.md)
+
 ---
 summary: "Slack setup and runtime behavior (Socket Mode + HTTP Events API)"
 read_when:

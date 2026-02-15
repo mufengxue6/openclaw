@@ -1,3 +1,5 @@
+**[English]** | [简体中文](wizard-cli-reference_zh.md)
+
 ---
 summary: "Complete reference for CLI onboarding flow, auth/model setup, outputs, and internals"
 read_when:

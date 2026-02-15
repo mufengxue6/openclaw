@@ -1,3 +1,5 @@
+**[English]** | [简体中文](clawhub_zh.md)
+
 ---
 summary: "ClawHub guide: public skills registry + CLI workflows"
 read_when:

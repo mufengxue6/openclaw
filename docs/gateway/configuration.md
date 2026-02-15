@@ -1,3 +1,5 @@
+**[English]** | [简体中文](configuration_zh.md)
+
 ---
 summary: "Configuration overview: common tasks, quick setup, and links to the full reference"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](exec-host_zh.md)
+
 ---
 summary: "Refactor plan: exec host routing, node approvals, and headless runner"
 read_when:

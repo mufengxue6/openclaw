@@ -1,3 +1,5 @@
+**[English]** | [简体中文](webhooks_zh.md)
+
 ---
 summary: "CLI reference for `openclaw webhooks` (webhook helpers + Gmail Pub/Sub)"
 read_when:

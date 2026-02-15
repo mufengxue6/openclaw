@@ -1,3 +1,5 @@
+**[English]** | [简体中文](rpc_zh.md)
+
 ---
 summary: "RPC adapters for external CLIs (signal-cli, legacy imsg) and gateway patterns"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Messaging platforms OpenClaw can connect to"
 read_when:

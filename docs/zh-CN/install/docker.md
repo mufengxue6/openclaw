@@ -1,3 +1,5 @@
+**[English]** | [简体中文](docker_zh.md)
+
 ---
 read_when:
   - 你想要容器化的 Gateway 网关而不是本地安装

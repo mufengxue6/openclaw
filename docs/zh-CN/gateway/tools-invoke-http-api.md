@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tools-invoke-http-api_zh.md)
+
 ---
 read_when:
   - 不运行完整智能体回合直接调用工具

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](configuration_zh.md)
+
 ---
 read_when:
   - 添加或修改配置字段时

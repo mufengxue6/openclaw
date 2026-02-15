@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cli-backends_zh.md)
+
 ---
 read_when:
   - 你想要一个在 API 提供商失败时的可靠回退

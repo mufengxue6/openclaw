@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "OpenClaw is a multi-channel gateway for AI agents that runs on any OS."
 read_when:

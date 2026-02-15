@@ -1,3 +1,5 @@
+**[English]** | [简体中文](typebox_zh.md)
+
 ---
 read_when:
   - 更新协议模式或代码生成

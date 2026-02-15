@@ -1,3 +1,5 @@
+**[English]** | [简体中文](features_zh.md)
+
 ---
 summary: "OpenClaw capabilities across channels, routing, media, and UX."
 read_when:

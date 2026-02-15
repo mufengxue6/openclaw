@@ -1,3 +1,5 @@
+**[English]** | [简体中文](openrouter_zh.md)
+
 ---
 read_when:
   - 你想用一个 API 密钥访问多种 LLM

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agent-workspace_zh.md)
+
 ---
 read_when:
   - 你需要解释智能体工作区或其文件布局

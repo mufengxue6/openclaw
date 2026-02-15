@@ -1,3 +1,5 @@
+**[English]** | [简体中文](googlechat_zh.md)
+
 ---
 read_when:
   - 开发 Google Chat 渠道功能时

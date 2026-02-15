@@ -1,3 +1,5 @@
+**[English]** | [简体中文](camera_zh.md)
+
 ---
 read_when:
   - 在 iOS 节点或 macOS 上添加或修改相机捕获

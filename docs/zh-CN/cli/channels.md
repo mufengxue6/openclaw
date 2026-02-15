@@ -1,3 +1,5 @@
+**[English]** | [简体中文](channels_zh.md)
+
 ---
 read_when:
   - 你想添加/删除渠道账户（WhatsApp/Telegram/Discord/Google Chat/Slack/Mattermost（插件）/Signal/iMessage）

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](uninstall_zh.md)
+
 ---
 read_when:
   - 你想移除 Gateway 网关服务和/或本地状态

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "Model providers (LLMs) supported by OpenClaw"
 read_when:

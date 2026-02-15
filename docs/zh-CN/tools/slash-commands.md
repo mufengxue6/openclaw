@@ -1,3 +1,5 @@
+**[English]** | [简体中文](slash-commands_zh.md)
+
 ---
 read_when:
   - 使用或配置聊天命令

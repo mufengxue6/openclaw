@@ -1,3 +1,5 @@
+**[English]** | [简体中文](media-understanding_zh.md)
+
 ---
 read_when:
   - 设计或重构媒体理解

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](vllm_zh.md)
+
 ---
 summary: "Run OpenClaw with vLLM (OpenAI-compatible local server)"
 read_when:

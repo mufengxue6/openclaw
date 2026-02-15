@@ -1,3 +1,5 @@
+**[English]** | [简体中文](canvas_zh.md)
+
 ---
 read_when:
   - 实现 macOS Canvas 面板

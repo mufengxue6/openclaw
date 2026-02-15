@@ -1,3 +1,5 @@
+**[English]** | [简体中文](docs_zh.md)
+
 ---
 summary: "CLI reference for `openclaw docs` (search the live docs index)"
 read_when:

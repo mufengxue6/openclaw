@@ -1,3 +1,5 @@
+**[English]** | [简体中文](date-time_zh.md)
+
 ---
 summary: "Date and time handling across envelopes, prompts, tools, and connectors"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](matrix_zh.md)
+
 ---
 summary: "Matrix support status, capabilities, and configuration"
 read_when:

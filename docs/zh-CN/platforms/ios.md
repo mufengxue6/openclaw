@@ -1,3 +1,5 @@
+**[English]** | [简体中文](ios_zh.md)
+
 ---
 read_when:
   - 配对或重新连接 iOS 节点

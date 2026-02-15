@@ -1,3 +1,5 @@
+**[English]** | [简体中文](approvals_zh.md)
+
 ---
 summary: "CLI reference for `openclaw approvals` (exec approvals for gateway or node hosts)"
 read_when:

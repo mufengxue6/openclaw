@@ -1,3 +1,5 @@
+**[English]** | [简体中文](auth-monitoring_zh.md)
+
 ---
 read_when:
   - 设置认证过期监控或告警

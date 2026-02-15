@@ -1,3 +1,5 @@
+**[English]** | [简体中文](uninstall_zh.md)
+
 ---
 read_when:
   - 你想从机器上移除 OpenClaw

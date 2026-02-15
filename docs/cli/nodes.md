@@ -1,3 +1,5 @@
+**[English]** | [简体中文](nodes_zh.md)
+
 ---
 summary: "CLI reference for `openclaw nodes` (list/status/approve/invoke, camera/canvas/screen)"
 read_when:

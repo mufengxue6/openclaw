@@ -1,5 +1,8 @@
 # Copilot Proxy (OpenClaw plugin)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Provider plugin for the **Copilot Proxy** VS Code extension.
 
 ## Enable

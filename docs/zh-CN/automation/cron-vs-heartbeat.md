@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cron-vs-heartbeat_zh.md)
+
 ---
 read_when:
   - 决定如何调度周期性任务

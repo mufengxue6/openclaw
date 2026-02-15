@@ -1,3 +1,5 @@
+**[English]** | [简体中文](development-channels_zh.md)
+
 ---
 read_when:
   - 你想在 stable/beta/dev 之间切换

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bedrock_zh.md)
+
 ---
 summary: "Use Amazon Bedrock (Converse API) models with OpenClaw"
 read_when:

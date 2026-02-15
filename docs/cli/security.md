@@ -1,3 +1,5 @@
+**[English]** | [简体中文](security_zh.md)
+
 ---
 summary: "CLI reference for `openclaw security` (audit and fix common security footguns)"
 read_when:

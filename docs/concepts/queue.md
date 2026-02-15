@@ -1,3 +1,5 @@
+**[English]** | [简体中文](queue_zh.md)
+
 ---
 summary: "Command queue design that serializes inbound auto-reply runs"
 read_when:

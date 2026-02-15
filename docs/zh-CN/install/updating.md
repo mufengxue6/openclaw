@@ -1,3 +1,5 @@
+**[English]** | [简体中文](updating_zh.md)
+
 ---
 read_when:
   - 更新 OpenClaw

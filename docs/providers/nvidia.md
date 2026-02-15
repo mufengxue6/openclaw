@@ -1,3 +1,5 @@
+**[English]** | [简体中文](nvidia_zh.md)
+
 ---
 summary: "Use NVIDIA's OpenAI-compatible API in OpenClaw"
 read_when:

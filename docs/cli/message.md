@@ -1,3 +1,5 @@
+**[English]** | [简体中文](message_zh.md)
+
 ---
 summary: "CLI reference for `openclaw message` (send + channel actions)"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](logging_zh.md)
+
 ---
 summary: "Logging surfaces, file logs, WS log styles, and console formatting"
 read_when:

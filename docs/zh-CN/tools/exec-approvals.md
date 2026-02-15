@@ -1,3 +1,5 @@
+**[English]** | [简体中文](exec-approvals_zh.md)
+
 ---
 read_when:
   - 配置执行审批或允许列表

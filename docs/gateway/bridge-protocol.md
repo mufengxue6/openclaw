@@ -1,3 +1,5 @@
+**[English]** | [简体中文](bridge-protocol_zh.md)
+
 ---
 summary: "Bridge protocol (legacy nodes): TCP JSONL, pairing, scoped RPC"
 read_when:

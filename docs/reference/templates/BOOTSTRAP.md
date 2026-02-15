@@ -1,3 +1,5 @@
+**[English]** | [简体中文](BOOTSTRAP_zh.md)
+
 ---
 title: "BOOTSTRAP.md Template"
 summary: "First-run ritual for new agents"

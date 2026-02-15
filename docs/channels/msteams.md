@@ -1,3 +1,5 @@
+**[English]** | [简体中文](msteams_zh.md)
+
 ---
 summary: "Microsoft Teams bot support status, capabilities, and configuration"
 read_when:

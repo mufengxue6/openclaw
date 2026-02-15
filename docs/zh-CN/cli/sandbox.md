@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sandbox_zh.md)
+
 ---
 read_when: You are managing sandbox containers or debugging sandbox/tool-policy behavior.
 status: active

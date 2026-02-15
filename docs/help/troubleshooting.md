@@ -1,3 +1,5 @@
+**[English]** | [简体中文](troubleshooting_zh.md)
+
 ---
 summary: "Symptom first troubleshooting hub for OpenClaw"
 read_when:

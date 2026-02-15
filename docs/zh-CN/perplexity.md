@@ -1,3 +1,5 @@
+**[English]** | [简体中文](perplexity_zh.md)
+
 ---
 read_when:
   - 你想使用 Perplexity Sonar 进行网络搜索

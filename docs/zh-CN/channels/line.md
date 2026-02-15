@@ -1,3 +1,5 @@
+**[English]** | [简体中文](line_zh.md)
+
 ---
 read_when:
   - 你想将 OpenClaw 连接到 LINE

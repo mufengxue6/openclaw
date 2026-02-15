@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sandbox-vs-tool-policy-vs-elevated_zh.md)
+
 ---
 title: Sandbox vs Tool Policy vs Elevated
 summary: "Why a tool is blocked: sandbox runtime, tool allow/deny policy, and elevated exec gates"

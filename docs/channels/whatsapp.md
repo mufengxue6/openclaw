@@ -1,3 +1,5 @@
+**[English]** | [简体中文](whatsapp_zh.md)
+
 ---
 summary: "WhatsApp channel support, access controls, delivery behavior, and operations"
 read_when:

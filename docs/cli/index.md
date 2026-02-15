@@ -1,3 +1,5 @@
+**[English]** | [简体中文](index_zh.md)
+
 ---
 summary: "OpenClaw CLI reference for `openclaw` commands, subcommands, and options"
 read_when:

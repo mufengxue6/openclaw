@@ -1,3 +1,5 @@
+**[English]** | [简体中文](model-config_zh.md)
+
 ---
 read_when:
   - 探索未来模型选择和认证配置文件的方案

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](configure_zh.md)
+
 ---
 read_when:
   - 你想交互式地调整凭证、设备或智能体默认设置

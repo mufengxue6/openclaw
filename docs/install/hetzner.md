@@ -1,3 +1,5 @@
+**[English]** | [简体中文](hetzner_zh.md)
+
 ---
 summary: "Run OpenClaw Gateway 24/7 on a cheap Hetzner VPS (Docker) with durable state and baked-in binaries"
 read_when:

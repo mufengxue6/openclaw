@@ -1,3 +1,5 @@
+**[English]** | [简体中文](digitalocean_zh.md)
+
 ---
 summary: "OpenClaw on DigitalOcean (simple paid VPS option)"
 read_when:

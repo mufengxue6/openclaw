@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voicecall_zh.md)
+
 ---
 read_when:
   - 使用语音通话插件并想了解 CLI 入口

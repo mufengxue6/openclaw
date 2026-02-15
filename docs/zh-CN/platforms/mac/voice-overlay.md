@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voice-overlay_zh.md)
+
 ---
 read_when:
   - 调整语音浮层行为

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](IDENTITY_zh.md)
+
 ---
 summary: "Agent identity record"
 read_when:

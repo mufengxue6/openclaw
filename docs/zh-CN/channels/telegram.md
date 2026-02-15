@@ -1,3 +1,5 @@
+**[English]** | [简体中文](telegram_zh.md)
+
 ---
 read_when:
   - 开发 Telegram 功能或 webhook

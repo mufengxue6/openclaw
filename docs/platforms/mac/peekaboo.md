@@ -1,3 +1,5 @@
+**[English]** | [简体中文](peekaboo_zh.md)
+
 ---
 summary: "PeekabooBridge integration for macOS UI automation"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](creating-skills_zh.md)
+
 ---
 title: "Creating Skills"
 ---

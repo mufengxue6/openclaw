@@ -1,3 +1,5 @@
+**[English]** | [简体中文](thinking_zh.md)
+
 ---
 summary: "Directive syntax for /think + /verbose and how they affect model reasoning"
 read_when:

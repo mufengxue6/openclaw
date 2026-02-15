@@ -1,3 +1,5 @@
+**[English]** | [简体中文](exec-approvals_zh.md)
+
 ---
 summary: "Exec approvals, allowlists, and sandbox escape prompts"
 read_when:

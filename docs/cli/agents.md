@@ -1,3 +1,5 @@
+**[English]** | [简体中文](agents_zh.md)
+
 ---
 summary: "CLI reference for `openclaw agents` (list/add/delete/set identity)"
 read_when:

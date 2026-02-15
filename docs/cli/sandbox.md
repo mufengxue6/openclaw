@@ -1,3 +1,5 @@
+**[English]** | [简体中文](sandbox_zh.md)
+
 ---
 title: Sandbox CLI
 summary: "Manage sandbox containers and inspect effective sandbox policy"

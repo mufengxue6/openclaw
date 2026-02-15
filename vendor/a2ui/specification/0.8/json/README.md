@@ -1,5 +1,8 @@
 # A2UI JSON Schema Files
 
+**[English]** | [简体中文](README_zh.md)
+
+
 This directory contains the formal JSON Schema definitions for the A2UI protocol.
 
 ## Schema Descriptions

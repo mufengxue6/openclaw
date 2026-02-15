@@ -1,3 +1,5 @@
+**[English]** | [简体中文](configure_zh.md)
+
 ---
 summary: "CLI reference for `openclaw configure` (interactive configuration prompts)"
 read_when:

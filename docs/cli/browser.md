@@ -1,3 +1,5 @@
+**[English]** | [简体中文](browser_zh.md)
+
 ---
 summary: "CLI reference for `openclaw browser` (profiles, tabs, actions, extension relay)"
 read_when:

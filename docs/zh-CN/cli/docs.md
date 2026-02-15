@@ -1,3 +1,5 @@
+**[English]** | [简体中文](docs_zh.md)
+
 ---
 read_when:
   - 你想从终端搜索实时 OpenClaw 文档

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](skills-config_zh.md)
+
 ---
 read_when:
   - 添加或修改 Skills 配置

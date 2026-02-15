@@ -1,5 +1,8 @@
 # AGENTS.md - ja-JP docs translation workspace
 
+**[English]** | [简体中文](AGENTS_zh.md)
+
+
 ## Read When
 
 - Maintaining `docs/ja-JP/**`

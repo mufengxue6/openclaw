@@ -1,3 +1,5 @@
+**[English]** | [简体中文](together_zh.md)
+
 ---
 summary: "Together AI setup (auth + model selection)"
 read_when:

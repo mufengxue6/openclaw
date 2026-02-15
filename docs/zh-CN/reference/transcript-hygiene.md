@@ -1,3 +1,5 @@
+**[English]** | [简体中文](transcript-hygiene_zh.md)
+
 ---
 read_when:
   - 你正在调试与对话记录结构相关的提供商请求拒绝问题

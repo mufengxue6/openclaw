@@ -1,3 +1,5 @@
+**[English]** | [简体中文](scripts_zh.md)
+
 ---
 summary: "Repository scripts: purpose, scope, and safety notes"
 read_when:

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cron-add-hardening_zh.md)
+
 ---
 last_updated: "2026-01-05"
 owner: openclaw

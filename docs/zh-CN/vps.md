@@ -1,3 +1,5 @@
+**[English]** | [简体中文](vps_zh.md)
+
 ---
 read_when:
   - 你想在云端运行 Gateway 网关

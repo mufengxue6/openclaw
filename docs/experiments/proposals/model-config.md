@@ -1,3 +1,5 @@
+**[English]** | [简体中文](model-config_zh.md)
+
 ---
 summary: "Exploration: model config, auth profiles, and fallback behavior"
 read_when:

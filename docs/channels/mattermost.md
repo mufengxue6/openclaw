@@ -1,3 +1,5 @@
+**[English]** | [简体中文](mattermost_zh.md)
+
 ---
 summary: "Mattermost bot setup and OpenClaw config"
 read_when:

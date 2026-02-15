@@ -1,3 +1,5 @@
+**[English]** | [简体中文](voicecall_zh.md)
+
 ---
 summary: "CLI reference for `openclaw voicecall` (voice-call plugin command surface)"
 read_when:

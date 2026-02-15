@@ -1,5 +1,8 @@
 # LLM Task (plugin)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Adds an **optional** agent tool `llm-task` for running **JSON-only** LLM tasks
 (drafting, summarizing, classifying) with optional JSON Schema validation.
 

@@ -1,5 +1,8 @@
 # 🎙️ swabble — Speech.framework wake-word hook daemon (macOS 26)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 swabble is a Swift 6.2 wake-word hook daemon. The CLI targets macOS 26 (SpeechAnalyzer + SpeechTranscriber). The shared `SwabbleKit` target is multi-platform and exposes wake-word gating utilities for iOS/macOS apps.
 
 - **Local-only**: Speech.framework on-device models; zero network usage.

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](ollama_zh.md)
+
 ---
 read_when:
   - 你想通过 Ollama 使用本地模型运行 OpenClaw

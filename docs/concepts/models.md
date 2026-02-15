@@ -1,3 +1,5 @@
+**[English]** | [简体中文](models_zh.md)
+
 ---
 summary: "Models CLI: list, set, aliases, fallbacks, scan, status"
 read_when:

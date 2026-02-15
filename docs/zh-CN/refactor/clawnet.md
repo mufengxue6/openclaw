@@ -1,3 +1,5 @@
+**[English]** | [简体中文](clawnet_zh.md)
+
 ---
 read_when:
   - 规划节点 + 操作者客户端的统一网络协议

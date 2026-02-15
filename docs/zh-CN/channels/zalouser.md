@@ -1,3 +1,5 @@
+**[English]** | [简体中文](zalouser_zh.md)
+
 ---
 read_when:
   - 为 OpenClaw 设置 Zalo Personal

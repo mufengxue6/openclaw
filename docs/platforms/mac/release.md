@@ -1,3 +1,5 @@
+**[English]** | [简体中文](release_zh.md)
+
 ---
 summary: "OpenClaw macOS release checklist (Sparkle feed, packaging, signing)"
 read_when:

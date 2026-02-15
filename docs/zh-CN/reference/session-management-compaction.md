@@ -1,3 +1,5 @@
+**[English]** | [简体中文](session-management-compaction_zh.md)
+
 ---
 read_when:
   - 你需要调试会话 ID、记录 JSONL 或 sessions.json 字段

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](troubleshooting_zh.md)
+
 ---
 summary: 节点故障排查：排查配对、前台限制、权限与工具调用失败
 title: 节点故障排查

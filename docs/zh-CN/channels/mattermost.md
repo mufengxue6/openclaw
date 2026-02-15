@@ -1,3 +1,5 @@
+**[English]** | [简体中文](mattermost_zh.md)
+
 ---
 read_when:
   - 设置 Mattermost

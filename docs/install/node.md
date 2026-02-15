@@ -1,3 +1,5 @@
+**[English]** | [简体中文](node_zh.md)
+
 ---
 title: "Node.js"
 summary: "Install and configure Node.js for OpenClaw — version requirements, install options, and PATH troubleshooting"

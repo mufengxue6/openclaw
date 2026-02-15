@@ -1,3 +1,5 @@
+**[English]** | [简体中文](exec_zh.md)
+
 ---
 read_when:
   - 使用或修改 exec 工具

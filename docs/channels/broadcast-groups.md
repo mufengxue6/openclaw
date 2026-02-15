@@ -1,3 +1,5 @@
+**[English]** | [简体中文](broadcast-groups_zh.md)
+
 ---
 summary: "Broadcast a WhatsApp message to multiple agents"
 read_when:

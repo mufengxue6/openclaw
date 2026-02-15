@@ -1,3 +1,5 @@
+**[English]** | [简体中文](skills_zh.md)
+
 ---
 read_when:
   - 更新 macOS Skills 设置 UI

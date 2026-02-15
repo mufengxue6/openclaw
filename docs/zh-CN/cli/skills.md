@@ -1,3 +1,5 @@
+**[English]** | [简体中文](skills_zh.md)
+
 ---
 read_when:
   - 你想查看哪些 Skills 可用并准备好运行

@@ -1,3 +1,5 @@
+**[English]** | [简体中文](cli-backends_zh.md)
+
 ---
 summary: "CLI backends: text-only fallback via local AI CLIs"
 read_when:

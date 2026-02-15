@@ -1,3 +1,5 @@
+**[English]** | [简体中文](session_zh.md)
+
 ---
 read_when:
   - 修改会话处理或存储

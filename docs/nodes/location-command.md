@@ -1,3 +1,5 @@
+**[English]** | [简体中文](location-command_zh.md)
+
 ---
 summary: "Location command for nodes (location.get), permission modes, and background behavior"
 read_when:

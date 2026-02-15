@@ -1,3 +1,5 @@
+**[English]** | [简体中文](discovery_zh.md)
+
 ---
 summary: "Node discovery and transports (Bonjour, Tailscale, SSH) for finding the gateway"
 read_when:

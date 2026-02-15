@@ -1,3 +1,5 @@
+**[English]** | [简体中文](BOOT_zh.md)
+
 ---
 title: "BOOT.md Template"
 summary: "Workspace template for BOOT.md"

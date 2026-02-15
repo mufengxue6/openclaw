@@ -1,3 +1,5 @@
+**[English]** | [简体中文](telegram_zh.md)
+
 ---
 summary: "Telegram bot support status, capabilities, and configuration"
 read_when:

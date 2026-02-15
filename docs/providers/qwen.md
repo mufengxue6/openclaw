@@ -1,3 +1,5 @@
+**[English]** | [简体中文](qwen_zh.md)
+
 ---
 summary: "Use Qwen OAuth (free tier) in OpenClaw"
 read_when:

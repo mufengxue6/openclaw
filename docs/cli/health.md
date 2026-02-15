@@ -1,3 +1,5 @@
+**[English]** | [简体中文](health_zh.md)
+
 ---
 summary: "CLI reference for `openclaw health` (gateway health endpoint via RPC)"
 read_when:

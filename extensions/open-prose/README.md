@@ -1,5 +1,8 @@
 # OpenProse (plugin)
 
+**[English]** | [简体中文](README_zh.md)
+
+
 Adds the OpenProse skill pack and `/prose` slash command.
 
 ## Enable

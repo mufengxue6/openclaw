@@ -1,3 +1,5 @@
+**[English]** | [简体中文](health_zh.md)
+
 ---
 summary: "Health check steps for channel connectivity"
 read_when:

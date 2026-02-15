@@ -1,3 +1,5 @@
+**[English]** | [简体中文](tlon_zh.md)
+
 ---
 summary: "Tlon/Urbit support status, capabilities, and configuration"
 read_when:

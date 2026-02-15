@@ -1,3 +1,5 @@
+**[English]** | [简体中文](imessage_zh.md)
+
 ---
 read_when:
   - 设置 iMessage 支持

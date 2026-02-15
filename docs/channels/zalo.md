@@ -1,3 +1,5 @@
+**[English]** | [简体中文](zalo_zh.md)
+
 ---
 summary: "Zalo bot support status, capabilities, and configuration"
 read_when:

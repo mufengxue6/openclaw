@@ -1,3 +1,5 @@
+**[English]** | [简体中文](authentication_zh.md)
+
 ---
 summary: "Model authentication: OAuth, API keys, and setup-token"
 read_when:

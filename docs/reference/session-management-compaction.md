@@ -1,3 +1,5 @@
+**[English]** | [简体中文](session-management-compaction_zh.md)
+
 ---
 summary: "Deep dive: session store + transcripts, lifecycle, and (auto)compaction internals"
 read_when:

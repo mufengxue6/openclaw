@@ -1,3 +1,5 @@
+**[English]** | [简体中文](groups_zh.md)
+
 ---
 read_when:
   - 更改群聊行为或提及限制

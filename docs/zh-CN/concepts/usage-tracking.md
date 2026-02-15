@@ -1,3 +1,5 @@
+**[English]** | [简体中文](usage-tracking_zh.md)
+
 ---
 read_when:
   - 你正在对接提供商使用量/配额界面

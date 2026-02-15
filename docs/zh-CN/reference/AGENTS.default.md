@@ -1,3 +1,5 @@
+**[English]** | [简体中文](AGENTS.default_zh.md)
+
 ---
 read_when:
   - 启动新的 OpenClaw 智能体会话
