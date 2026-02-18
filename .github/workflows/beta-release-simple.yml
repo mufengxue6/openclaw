@@ -1,0 +1,29 @@
+name: Simple Beta Release
+
+on:
+  workflow_dispatch:  # Only manual trigger
+  
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Get version
+      id: get_version
+      run: |
+        VERSION=$(node -p "require('./package.json').version")
+        echo "VERSION=$VERSION" >> $GITHUB_ENV
+        
+    - name: Create or update release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: v${{ env.VERSION }}-beta
+        name: OpenClaw ${{ env.VERSION }} (Beta)
+        prerelease: true
+        files: |
+          README.md
