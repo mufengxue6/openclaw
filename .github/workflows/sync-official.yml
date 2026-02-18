@@ -1,0 +1,78 @@
+name: Sync from Official OpenClaw Repository
+
+on:
+  schedule:
+    # 每小时运行一次
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  sync-official:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+    - name: Checkout your repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        ref: beta
+        
+    - name: Add official upstream remote
+      run: |
+        git remote add upstream https://github.com/openclaw/openclaw.git || true
+        git fetch upstream
+        
+    - name: Get latest commit from official main
+      id: get_latest
+      run: |
+        LATEST_COMMIT=$(git ls-remote upstream main | cut -f1)
+        echo "LATEST_COMMIT=$LATEST_COMMIT" >> $GITHUB_ENV
+        echo "Latest commit from official: $LATEST_COMMIT"
+        
+    - name: Check if update is needed
+      id: check_update
+      run: |
+        CURRENT_COMMIT=$(git rev-parse HEAD)
+        if [ "$CURRENT_COMMIT" != "$LATEST_COMMIT" ]; then
+          echo "UPDATE_NEEDED=true" >> $GITHUB_ENV
+          echo "Update needed: current=$CURRENT_COMMIT, latest=$LATEST_COMMIT"
+        else
+          echo "UPDATE_NEEDED=false" >> $GITHUB_ENV
+          echo "Already up to date"
+        fi
+        
+    - name: Sync and build if update needed
+      if: env.UPDATE_NEEDED == 'true'
+      run: |
+        # 重置到官方最新版本
+        git reset --hard ${{ env.LATEST_COMMIT }}
+        
+        # 更新 package.json 中的仓库信息指向你的仓库
+        sed -i "s|\"url\": \"git+https://github.com/openclaw/openclaw.git\"|\"url\": \"git+https://github.com/mufengxue6/openclaw.git\"|g" package.json
+        sed -i "s|\"repository\": \"openclaw/openclaw\"|\"repository\": \"mufengxue6/openclaw\"|g" package.json
+        
+        # 提交更改
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add package.json
+        git commit -m "chore: update to official commit ${{ env.LATEST_COMMIT }}"
+        
+        # 推送到你的 beta 分支
+        git push origin HEAD:beta
+        
+        echo "Successfully synced and pushed to beta branch"
+        
+    - name: Trigger release workflow if updated
+      if: env.UPDATE_NEEDED == 'true'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          await github.rest.actions.createWorkflowDispatch({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            workflow_id: 'release.yml',
+            ref: 'beta'
+          })
+          console.log('Triggered release workflow')
