@@ -89,12 +89,6 @@ jobs:
       with:
         node-version: '22'
         
-    - name: Update README with new release link
-      run: |
-        # Update README badges and links to point to this repository
-        sed -i "s|https://github.com/openclaw/openclaw/releases|https://github.com/snowzlm/openclaw/releases|g" README.md
-        sed -i "s|https://img.shields.io/github/v/release/openclaw/openclaw|https://img.shields.io/github/v/release/snowzlm/openclaw|g" README.md
-        
     - name: Setup pnpm
       uses: pnpm/action-setup@v3
       with:
@@ -117,37 +111,16 @@ jobs:
     - name: Create ZIP archive
       run: |
         cd dist
-        zip -r OpenClaw-${{ env.VERSION }}-mac.zip OpenClaw.app
-        
-    - name: Get version from package.json
-      id: get_version_mac
-      run: |
-        VERSION=$(node -p "require('../package.json').version")
-        echo "VERSION=$VERSION" >> $GITHUB_ENV
-        
-    - name: Download Release Asset
-      uses: actions/download-artifact@v4
-      with:
-        name: release-info
-        path: .
-        
-    - name: Get Release Upload URL
-      id: get_release
-      run: |
-        RELEASE_ID=$(gh release view v${{ env.VERSION }}-beta --json id --jq '.id')
-        UPLOAD_URL=$(gh api repos/snowzlm/openclaw/releases/$RELEASE_ID/assets --jq '.[].url')
-        echo "UPLOAD_URL=$UPLOAD_URL" >> $GITHUB_ENV
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        zip -r OpenClaw-${{ needs.build-and-release.outputs.version }}-mac.zip OpenClaw.app
         
     - name: Upload ZIP Release Asset
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        upload_url: ${{ steps.get_release.outputs.upload_url }}
-        asset_path: ./dist/OpenClaw-${{ env.VERSION }}-mac.zip
-        asset_name: OpenClaw-${{ env.VERSION }}-mac.zip
+        upload_url: ${{ needs.build-and-release.outputs.upload_url }}
+        asset_path: ./dist/OpenClaw-${{ needs.build-and-release.outputs.version }}-mac.zip
+        asset_name: OpenClaw-${{ needs.build-and-release.outputs.version }}-mac.zip
         asset_content_type: application/zip
 
   build-dmg:
