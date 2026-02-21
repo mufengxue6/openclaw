@@ -21,7 +21,7 @@ Status: ready for DMs and guild channels via the official Discord gateway.
   </Card>
 </CardGroup>
 
-## Quick setup
+## Onboarding
 
 You will need to create a new application with a bot, add the bot to your server, and pair it to OpenClaw. We recommend adding your bot to your own private server. If you don't have one yet, [create one first](https://support.discord.com/hc/en-us/articles/204849977-How-do-I-create-a-server) (choose **Create My Own > For me and my friends**).
 
@@ -295,6 +295,8 @@ By default, components are single use. Set `components.reusable=true` to allow b
 
 To restrict who can click a button, set `allowedUsers` on that button (Discord user IDs, tags, or `*`). When configured, unmatched users receive an ephemeral denial.
 
+The `/model` and `/models` slash commands open an interactive model picker with provider and model dropdowns plus a Submit step. The picker reply is ephemeral and only the invoking user can use it.
+
 File attachments:
 
 - `file` blocks must point to an attachment reference (`attachment://<filename>`)
@@ -532,6 +534,10 @@ Use `bindings[].match.roles` to route Discord guild members to different agents 
 
 See [Slash commands](/tools/slash-commands) for command catalog and behavior.
 
+Default slash command settings:
+
+- `ephemeral: true`
+
 ## Feature details
 
 <AccordionGroup>
@@ -614,7 +620,7 @@ See [Slash commands](/tools/slash-commands) for command catalog and behavior.
     - parent thread metadata can be used for parent-session linkage
     - thread config inherits parent channel config unless a thread-specific entry exists
 
-    Channel topics are injected as untrusted context and also included in trusted inbound metadata on new sessions.
+    Channel topics are injected as **untrusted** context (not as system prompt).
 
   </Accordion>
 
@@ -957,7 +963,7 @@ openclaw logs --follow
   </Accordion>
 </AccordionGroup>
 
-## Configuration reference pointers
+## Configuration
 
 Primary reference:
 
@@ -967,7 +973,7 @@ High-signal Discord fields:
 
 - startup/auth: `enabled`, `token`, `accounts.*`, `allowBots`
 - policy: `groupPolicy`, `dm.*`, `guilds.*`, `guilds.*.channels.*`
-- command: `commands.native`, `commands.useAccessGroups`, `configWrites`
+- command: `commands.native`, `commands.useAccessGroups`, `configWrites`, `slashCommand.*`
 - reply/history: `replyToMode`, `historyLimit`, `dmHistoryLimit`, `dms.*.historyLimit`
 - delivery: `textChunkLimit`, `chunkMode`, `maxLinesPerMessage`
 - streaming: `streamMode`, `draftChunk`, `blockStreaming`, `blockStreamingCoalesce`

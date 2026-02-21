@@ -78,7 +78,11 @@ Text + native (when enabled):
 - `/context [list|detail|json]` (explain “context”; `detail` shows per-file + per-tool + per-skill + system prompt size)
 - `/export-session [path]` (alias: `/export`) (export current session to HTML with full system prompt)
 - `/whoami` (show your sender id; alias: `/id`)
+- `/session ttl <duration|off>` (manage session-level settings, such as TTL)
 - `/subagents list|kill|log|info|send|steer|spawn` (inspect, control, or spawn sub-agent runs for the current session)
+- `/agents` (list thread-bound agents for this session)
+- `/focus <target>` (Discord: bind this thread, or a new thread, to a session/subagent target)
+- `/unfocus` (Discord: remove the current thread binding)
 - `/kill <id|#|all>` (immediately abort one or all running sub-agents for this session; no confirmation message)
 - `/steer <id|#> <message>` (steer a running sub-agent immediately: in-run when possible, otherwise abort current work and restart on the steer message)
 - `/tell <id|#> <message>` (alias for `/steer`)
@@ -159,6 +163,7 @@ Examples:
 Notes:
 
 - `/model` and `/model list` show a compact, numbered picker (model family + available providers).
+- On Discord, `/model` and `/models` open an interactive picker with provider and model dropdowns plus a Submit step.
 - `/model <#>` selects from that picker (and prefers the current provider when possible).
 - `/model status` shows the detailed view, including configured provider endpoint (`baseUrl`) and API mode (`api`) when available.
 
