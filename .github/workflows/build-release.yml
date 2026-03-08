@@ -41,7 +41,7 @@ jobs:
           zip -r ../OpenClaw-2026.3.8.zip .
       
       - name: Upload to Release
-        uses: softprop/action-github-release@v2
+        uses: softprops/action-gh-release@v2
         with:
           files: OpenClaw-*.zip
           tag_name: v2026.3.8-beta.1
