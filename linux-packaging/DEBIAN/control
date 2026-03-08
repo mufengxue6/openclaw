@@ -1,0 +1,11 @@
+Package: openclaw
+Version: 2026.3.8-beta
+Section: web
+Priority: optional
+Architecture: all
+Depends: nodejs (>= 18.0), git, curl
+Recommends: npm, pymous
+Maintainer: snowzlm <zlmai@example.com>
+Description: OpenClaw - Multi-channel AI gateway
+ Multi-channel AI gateway with extensible messaging support.
+Homepage: https://github.com/snowzlm/openclaw
