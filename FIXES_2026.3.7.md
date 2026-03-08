@@ -20,12 +20,38 @@
 +     - Created `src/tool-call-parser-fix.js` - proper tool call parsing
 +     - Created `src/response-sanitizer.js` - response filtering to prevent exposure
 
+5. **[Bug #39691,39695,39775] (2026-03-08 16:00+):** Agent command execution failures
++   - Root Cause: Tool registration race conditions and execution failures
++   - Fix: Created `src/tool-execution-fix.js` to address:
++     - Tool registration race conditions
++     - Proper error handling and logging
++     - Timeout handling for hanging executions
++     - Execution validation and sanitization
+
+6. **[Bug #39768] (2026-03-08 16:00+):** MCP tool failure - Missing required parameter: command
++   - Root Cause: MCP tool parameter validation and passing issues
++   - Fix: Created `src/mcp-tool-parameter-fix.js` to address:
++     - Parameter normalization for exec tools
++     - Schema-based validation
++     - Tool name resolution
++     - MCP to internal format transformation
+
+7. **[Bug #39696] (2026-03-08 16:00+):** Raw internal tool-call 400 leaks to user
++   - Root Cause: Internal tool-call errors leaking to user responses
++   - Fix: Created `src/tool-call-error-handler.js` to:
++     - Sanitize internal errors before displaying to users
++     - Provide user-friendly error messages
++     - Prevent technical details exposure
+
 ## Files Changed
 - `src/infra/parse-finite-number.js` (new)
 - `src/diagnostic-session-state.js` (new)
 - `src/token-usage-fix.js` (new)
 - `src/tool-call-parser-fix.js` (new)
 - `src/response-sanitizer.js` (new)
+- `src/tool-execution-fix.js` (new)
+- `src/mcp-tool-parameter-fix.js` (new)
+- `src/tool-call-error-handler.js` (new)
 
 ## Branch
 - beta
