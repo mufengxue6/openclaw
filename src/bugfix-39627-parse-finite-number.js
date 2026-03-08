@@ -1,4 +1,0 @@
-/** Fix #39627: BlueBubbles parse-finite-number.js missing */
-const parseFiniteNumber = (v) => { if (typeof v === 'number' && Number.isFinite(v)) return v; if (typeof v === 'string') { const p = Number.parseFloat(v); if (Number.isFinite(p)) return p; } return undefined; };
-const parseStrictInteger = (v) => { if (typeof v === 'number') return Number.isSafeInteger(v) ? v : undefined; if (typeof v !== 'string') return undefined; const n = v.trim(); if (/^[+-]?\d+$/.test(n)) { const p = Number(n); if (Number.isSafeInteger(p)) return p; } return undefined; };
-module.exports = { parseFiniteNumber, parseStrictInteger, parseStrictPositiveInteger: (v) => { const p = parseStrictInteger(v); return p !== undefined && p > 0 ? p : undefined; }, parseStrictNonNegativeInteger: (v) => { const p = parseStrictInteger(v); return p !== undefined && p >= 0 ? p : undefined; }, };
