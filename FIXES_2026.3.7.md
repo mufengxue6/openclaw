@@ -14,11 +14,18 @@
 +   - Root Cause: Token usage tracking regression for kimi-k2.5
 +   - Fix: Created `src/token-usage-fix.js` with comprehensive token tracking
 
-## Files Changed
+4. **[Bug #39626]:** Exposes the format of tool calls
++   - Root Cause: System outputs internal tool call format in user responses
++   - Fix:
++     - Created `src/tool-call-parser-fix.js` - proper tool call parsing
++     - Created `src/response-sanitizer.js` - response filtering to prevent exposure
 
+## Files Changed
 - `src/infra/parse-finite-number.js` (new)
 - `src/diagnostic-session-state.js` (new)
 - `src/token-usage-fix.js` (new)
+- `src/tool-call-parser-fix.js` (new)
+- `src/response-sanitizer.js` (new)
 
 ## Branch
 - beta
