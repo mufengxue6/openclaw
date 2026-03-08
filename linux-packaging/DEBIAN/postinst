@@ -1,0 +1,25 @@
+#!/bin/bash
+set -e
+
+# Create openclaw user
+if ! id openclaw > /dev/null 2>&1; then
+  useradd --system --home /var/lib/openclaw --geco "" openclaw 2>/dev/null || true
+fi
+
+# Enable and start service
+systemctl daemon-reload
+systemctl enable openclaw-gateway.service || true
+
+# Set up permissions
+chown -R openclaw:openclaw /var/lib/openclaw 2>/dev/null || true
+
+# Prompt user
+echo "OpenClaw has been installed."
+echo "Run: systemctl --user start openclaw-gateway"
+case "$1" in
+  configure)
+    # Configure package
+    ;;
+esac
+
+#DEBHELPEr:
