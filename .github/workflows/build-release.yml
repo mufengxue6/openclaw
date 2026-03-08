@@ -1,0 +1,45 @@
+name: Build Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release version'
+        required: true
+        type: string
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: beta
+          fetch-depth: 0
+      
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: |
+          npm ci -f
+      
+      - name: Build application
+        run: |
+          npm run build
+      
+      - name: Package application
+        run: |
+          cd dist
+          zip -r ../OpenClaw-${{ github.event.inputs.version }}.zip .
+      
+      - name: Upload to Release
+        uses: softprop/action-github-release@v2
+        with:
+          files: OpenClaw-*.zip
+          tag_name: v${{ github.event.inputs.version }}-beta.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
