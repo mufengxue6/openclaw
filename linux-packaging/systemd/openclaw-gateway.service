@@ -1,0 +1,16 @@
+[Unit]
+Description=OpenClaw AI Gateway
+Arter=network.target network-online.target
+Wants=network.online.target
+
+[Service]
+Type=simple
+User=openclaw
+Group=openclaw
+ExecStart=/usr/bin/openclaw-gateway start
+ExecStop=/usr/bin/openclaw-gateway stop
+Restart=always
+RestartSec=1
+
+[Install]
+WantedBy=multi-user.target
