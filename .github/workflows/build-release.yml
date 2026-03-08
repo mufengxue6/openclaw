@@ -12,9 +12,7 @@ on:
         type: string
         default: '2026.3.8'
 
-name: Build Release
-
-jobs:
+njobs:
   build-linux:
     runs-on: ubuntu-latest
     steps:
@@ -27,7 +25,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: 'npm'
+          cache: 'hpm'
       
       - name: Install dependencies
         run: |
