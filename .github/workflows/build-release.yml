@@ -21,6 +21,13 @@ jobs:
           ref: beta
           fetch-depth: 0
       
+      - name: Get version
+        id: get_version
+        run: |
+          VERSION=$(cat package.json | grep '"version"' | head -1 | sed 's/.*: "\(.*\)",/\1/')
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "tag_name=v$VERSION" >> $GITHUB_OUTPUT
+      
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
       
@@ -42,19 +49,43 @@ jobs:
       - name: Package application
         run: |
           cd dist
-          zip -r ../OpenClaw-2026.3.8.zip .
+          zip -r ../OpenClaw-${{ steps.get_version.outputs.version }}.zip .
       
-      - name: Upload to Release
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: OpenClaw-${{ steps.get_version.outputs.version }}
+          path: OpenClaw-*.zip
+          retention-days: 30
+      
+      - name: Create or Update Release
         uses: softprops/action-gh-release@v2
         with:
           files: OpenClaw-*.zip
-          tag_name: v2026.3.8-beta.1
+          tag_name: ${{ steps.get_version.outputs.tag_name }}
+          name: Release ${{ steps.get_version.outputs.version }}
+          body: |
+            Beta release ${{ steps.get_version.outputs.version }}
+            
+            ## Fixes
+            - Bumped @mariozechner/pi-* packages to 0.55.4
+            - Fixed syntax error in anthropic.js
+            
+            ## Install
+            ```bash
+            npm install -g openclaw@${{ steps.get_version.outputs.version }}
+            # or
+            npm install -g openclaw@beta
+            ```
+          draft: false
+          prerelease: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Publish to npm
         run: |
           npm config set //registry.npmjs.org/:_authToken=${NPM_TOKEN}
-          npm publish --access public --tag beta || true
+          npm publish --access public --tag beta
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        continue-on-error: true
