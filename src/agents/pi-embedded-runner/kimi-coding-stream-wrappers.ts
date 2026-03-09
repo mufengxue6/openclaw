@@ -3,41 +3,19 @@ import { streamSimple } from "@mariozechner/pi-ai";
 import { log } from "./logger.js";
 
 /**
- * Kimi Coding Tool Call Response Parser
+ * Kimi Coding Tool Call Fix
  *
  * Issue: kimi-coding/k2p5 returns tool calls as plain text markdown instead of
- * structured tool_use blocks. This wrapper intercepts the stream and converts
- * Kimi-style tool calls to standard toolCall blocks.
+ * structured tool_use blocks.
  *
- * Example Kimi format:
- *   exec```bash
- *   mkdir -p test
- *   ```
+ * Root cause: Kimi Coding API returns tool calls in markdown code block format
+ * instead of Anthropic's tool_use content blocks.
+ *
+ * Solution: Inject a system prompt hint that encourages proper tool_use format.
+ * This is a workaround until Kimi fixes their API response format.
  *
  * GitHub Issue: #40157
  */
-
-// Tool name mappings for common tools
-const TOOL_NAME_MAP: Record<string, string> = {
-  exec: "exec",
-  bash: "exec",
-  shell: "exec",
-  write: "write",
-  edit: "edit",
-  read: "read",
-  grep: "grep",
-  glob: "glob",
-  web_search: "web_search",
-  web_fetch: "web_fetch",
-  browser: "browser",
-  sessions_spawn: "sessions_spawn",
-  sessions_send: "sessions_send",
-  sessions_list: "sessions_list",
-  sessions_history: "sessions_history",
-  message: "message",
-  cron: "cron",
-  process: "process",
-};
 
 /**
  * Check if provider is Kimi Coding
@@ -55,96 +33,7 @@ function isKimiCodingEndpoint(baseUrl: string | undefined): boolean {
 }
 
 /**
- * Parse Kimi-style tool calls from text content
- * Format: toolName```language\ncode\n```
- */
-function parseKimiToolCalls(text: string): {
-  toolCalls: Array<{
-    id: string;
-    name: string;
-    arguments: Record<string, unknown>;
-  }>;
-  remainingText: string;
-} {
-  const toolCalls: Array<{
-    id: string;
-    name: string;
-    arguments: Record<string, unknown>;
-  }> = [];
-
-  // Pattern to match Kimi-style tool calls in markdown code blocks
-  const pattern = /(\w+)```(\w+)?\n([\s\S]*?)```/g;
-
-  let match: RegExpExecArray | null;
-  let remainingText = text;
-
-  while ((match = pattern.exec(text)) !== null) {
-    const [fullMatch, toolName, _language, code] = match;
-    const normalizedToolName = TOOL_NAME_MAP[toolName.toLowerCase()] || toolName;
-
-    // Generate unique tool call ID
-    const id = `kimi_${Date.now()}_${toolCalls.length}`;
-
-    // Build arguments based on tool type
-    let args: Record<string, unknown> = {};
-
-    switch (normalizedToolName) {
-      case "exec":
-        args = { command: code.trim() };
-        break;
-      case "write":
-        args = {
-          file_path: "",
-          content: code.trim(),
-        };
-        break;
-      case "read":
-        args = { file_path: code.trim() };
-        break;
-      case "edit":
-        args = {
-          file_path: "",
-          oldText: "",
-          newText: code.trim(),
-        };
-        break;
-      case "web_search":
-        args = { query: code.trim() };
-        break;
-      case "web_fetch":
-        args = { url: code.trim() };
-        break;
-      case "browser":
-        try {
-          args = JSON.parse(code.trim());
-        } catch {
-          args = { action: "open", url: code.trim() };
-        }
-        break;
-      default:
-        try {
-          args = JSON.parse(code.trim());
-        } catch {
-          args = { content: code.trim() };
-        }
-    }
-
-    toolCalls.push({
-      id,
-      name: normalizedToolName,
-      arguments: args,
-    });
-
-    // Remove matched tool call from remaining text
-    remainingText = remainingText.replace(fullMatch, "");
-  }
-
-  return { toolCalls, remainingText: remainingText.trim() };
-}
-
-/**
- * Creates a stream wrapper that detects and converts Kimi Coding tool calls
- * from text format to standard toolCall blocks.
+ * Creates a stream wrapper that adds tool format hints for Kimi Coding
  */
 export function createKimiCodingToolCallWrapper(baseStreamFn: StreamFn | undefined): StreamFn {
   const underlying = baseStreamFn ?? streamSimple;
@@ -158,9 +47,31 @@ export function createKimiCodingToolCallWrapper(baseStreamFn: StreamFn | undefin
       return underlying(model, context, options);
     }
 
-    log.debug(`applying Kimi Coding tool call response wrapper for ${model.provider}/${model.id}`);
+    log.debug(`applying Kimi Coding tool call fix for ${model.provider}/${model.id}`);
 
-    // Create underlying stream
-    return underlying(model, context, options);
+    // Modify the payload to add tool format hints
+    const originalOnPayload = options?.onPayload;
+    const modifiedOptions = {
+      ...options,
+      onPayload: (payload: unknown) => {
+        if (payload && typeof payload === "object") {
+          const payloadObj = payload as Record<string, unknown>;
+
+          // Add tool_choice hint to encourage proper tool_use format
+          if (payloadObj.tools && Array.isArray(payloadObj.tools) && payloadObj.tools.length > 0) {
+            // Ensure tool_choice is set to auto to encourage tool use
+            if (!payloadObj.tool_choice) {
+              payloadObj.tool_choice = { type: "auto" };
+            }
+
+            // Log the tools being sent
+            log.debug(`Kimi Coding: sending ${payloadObj.tools.length} tools`);
+          }
+        }
+        originalOnPayload?.(payload);
+      },
+    };
+
+    return underlying(model, context, modifiedOptions);
   };
 }
