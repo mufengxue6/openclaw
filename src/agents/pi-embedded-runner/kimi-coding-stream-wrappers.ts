@@ -1,5 +1,4 @@
 import type { StreamFn } from "@mariozechner/pi-agent-core";
-import type { AssistantMessageEventStream } from "@mariozechner/pi-ai";
 import { streamSimple } from "@mariozechner/pi-ai";
 import { log } from "./logger.js";
 
@@ -162,95 +161,6 @@ export function createKimiCodingToolCallWrapper(baseStreamFn: StreamFn | undefin
     log.debug(`applying Kimi Coding tool call response wrapper for ${model.provider}/${model.id}`);
 
     // Create underlying stream
-    const underlyingStream = underlying(model, context, options);
-
-    // Return a transforming stream
-    return createKimiTransformStream(underlyingStream);
+    return underlying(model, context, options);
   };
-}
-
-/**
- * Creates a transforming stream that converts Kimi tool calls
- */
-function createKimiTransformStream(
-  underlyingStream: ReturnType<typeof streamSimple>,
-): ReturnType<typeof streamSimple> {
-  // Track accumulated text for tool call detection
-  let accumulatedText = "";
-  let textBlockIndex = -1;
-  let textBlockActive = false;
-
-  // Create a new event stream that wraps the underlying one
-  const transformStream = {
-    ...underlyingStream,
-    [Symbol.asyncIterator]: async function* () {
-      for await (const event of underlyingStream) {
-        // Track text block start
-        if (event.type === "text_start") {
-          accumulatedText = "";
-          textBlockIndex = event.contentIndex ?? -1;
-          textBlockActive = true;
-          yield event;
-        }
-        // Accumulate text deltas
-        else if (event.type === "text_delta" && textBlockActive) {
-          accumulatedText += (event as { delta?: string }).delta ?? "";
-          yield event;
-        }
-        // On text_end, check for tool calls and transform if found
-        else if (event.type === "text_end" && textBlockActive) {
-          const { toolCalls, remainingText } = parseKimiToolCalls(accumulatedText);
-
-          if (toolCalls.length > 0) {
-            log.debug(`detected ${toolCalls.length} Kimi-style tool calls in response`);
-
-            // Yield modified text_end with remaining text
-            yield {
-              ...event,
-              content: remainingText,
-            };
-
-            // Yield tool call events
-            for (let i = 0; i < toolCalls.length; i++) {
-              const tc = toolCalls[i];
-              const toolContentIndex = (textBlockIndex >= 0 ? textBlockIndex : 0) + i + 1;
-
-              // toolcall_start
-              yield {
-                type: "toolcall_start" as const,
-                contentIndex: toolContentIndex,
-                partial: (event as { partial?: unknown }).partial,
-              };
-
-              // toolcall_end with full tool call info
-              yield {
-                type: "toolcall_end" as const,
-                contentIndex: toolContentIndex,
-                toolCall: {
-                  type: "toolCall" as const,
-                  id: tc.id,
-                  name: tc.name,
-                  arguments: tc.arguments,
-                },
-                partial: (event as { partial?: { content?: unknown[] } }).partial,
-              };
-            }
-          } else {
-            yield event;
-          }
-
-          // Reset state
-          accumulatedText = "";
-          textBlockIndex = -1;
-          textBlockActive = false;
-        }
-        // Pass through all other events
-        else {
-          yield event;
-        }
-      }
-    },
-  } as ReturnType<typeof streamSimple>;
-
-  return transformStream;
 }
