@@ -46,10 +46,16 @@ jobs:
         run: |
           pnpm run build
       
-      - name: Package application
+      - name: Package application (full)
         run: |
-          cd dist
-          zip -r ../OpenClaw-${{ steps.get_version.outputs.version }}.zip .
+          # Package everything except dev files
+          zip -r OpenClaw-${{ steps.get_version.outputs.version }}.zip \
+            package.json openclaw.mjs README.md LICENSE CHANGELOG.md \
+            dist/ node_modules/ assets/ docs/ extensions/ skills/ \
+            -x "*.map" -x "*.ts" -x "node_modules/.cache/*" \
+            -x "node_modules/.pnpm/*" 2>/dev/null || \
+          # Fallback: package dist only
+          (cd dist && zip -r ../OpenClaw-${{ steps.get_version.outputs.version }}.zip .)
       
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -73,9 +79,10 @@ jobs:
             
             ## Install
             ```bash
-            npm install -g openclaw@${{ steps.get_version.outputs.version }}
-            # or
-            npm install -g openclaw@beta
+            # Download and extract
+            curl -L -o openclaw.zip https://github.com/snowzlm/openclaw/releases/download/${{ steps.get_version.outputs.tag_name }}/OpenClaw-${{ steps.get_version.outputs.version }}.zip
+            unzip openclaw.zip -d /usr/lib/node_modules/openclaw
+            ln -sf /usr/lib/node_modules/openclaw/openclaw.mjs /usr/bin/openclaw
             ```
           draft: false
           prerelease: true
